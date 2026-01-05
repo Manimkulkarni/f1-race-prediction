@@ -1,0 +1,479 @@
+season,race,driver,best_quali_lap,best_quali_lap_number,best_quali_compound
+2024,Abu Dhabi Grand Prix,ALB,83.821,5,SOFT
+2024,Abu Dhabi Grand Prix,ALO,83.196,18,SOFT
+2024,Abu Dhabi Grand Prix,BOT,83.204,14,SOFT
+2024,Abu Dhabi Grand Prix,COL,83.912,5,SOFT
+2024,Abu Dhabi Grand Prix,DOO,84.105,5,SOFT
+2024,Abu Dhabi Grand Prix,GAS,82.984,17,SOFT
+2024,Abu Dhabi Grand Prix,HAM,83.887,3,SOFT
+2024,Abu Dhabi Grand Prix,HUL,82.886,16,SOFT
+2024,Abu Dhabi Grand Prix,LAW,83.472,11,SOFT
+2024,Abu Dhabi Grand Prix,LEC,82.98,11,SOFT
+2024,Abu Dhabi Grand Prix,MAG,83.632,2,SOFT
+2024,Abu Dhabi Grand Prix,NOR,82.595,15,SOFT
+2024,Abu Dhabi Grand Prix,PER,83.264,17,SOFT
+2024,Abu Dhabi Grand Prix,PIA,82.804,15,SOFT
+2024,Abu Dhabi Grand Prix,RUS,83.132,18,SOFT
+2024,Abu Dhabi Grand Prix,SAI,82.824,15,SOFT
+2024,Abu Dhabi Grand Prix,STR,83.729,5,SOFT
+2024,Abu Dhabi Grand Prix,TSU,83.419,11,SOFT
+2024,Abu Dhabi Grand Prix,VER,82.945,11,SOFT
+2024,Abu Dhabi Grand Prix,ZHO,83.88,5,SOFT
+2024,Australian Grand Prix,ALB,77.13,8,SOFT
+2024,Australian Grand Prix,ALO,76.71,14,SOFT
+2024,Australian Grand Prix,BOT,77.34,14,SOFT
+2024,Australian Grand Prix,GAS,77.982,7,SOFT
+2024,Australian Grand Prix,HAM,76.96,14,SOFT
+2024,Australian Grand Prix,HUL,77.976,7,SOFT
+2024,Australian Grand Prix,LEC,76.304,14,SOFT
+2024,Australian Grand Prix,MAG,77.427,12,SOFT
+2024,Australian Grand Prix,NOR,76.315,18,SOFT
+2024,Australian Grand Prix,OCO,77.617,10,SOFT
+2024,Australian Grand Prix,PER,76.274,21,SOFT
+2024,Australian Grand Prix,PIA,76.572,17,SOFT
+2024,Australian Grand Prix,RIC,77.466,5,SOFT
+2024,Australian Grand Prix,RUS,76.724,22,SOFT
+2024,Australian Grand Prix,SAI,76.185,17,SOFT
+2024,Australian Grand Prix,STR,76.78,17,SOFT
+2024,Australian Grand Prix,TSU,76.788,17,SOFT
+2024,Australian Grand Prix,VER,75.915,20,SOFT
+2024,Australian Grand Prix,ZHO,78.188,5,SOFT
+2024,Austrian Grand Prix,ALB,65.736,8,SOFT
+2024,Austrian Grand Prix,ALO,65.639,11,SOFT
+2024,Austrian Grand Prix,BOT,65.847,5,SOFT
+2024,Austrian Grand Prix,GAS,65.335,17,SOFT
+2024,Austrian Grand Prix,HAM,64.903,17,SOFT
+2024,Austrian Grand Prix,HUL,65.262,14,SOFT
+2024,Austrian Grand Prix,LEC,65.044,18,SOFT
+2024,Austrian Grand Prix,MAG,65.347,14,SOFT
+2024,Austrian Grand Prix,NOR,64.718,19,SOFT
+2024,Austrian Grand Prix,OCO,65.274,17,SOFT
+2024,Austrian Grand Prix,PER,65.144,14,SOFT
+2024,Austrian Grand Prix,PIA,64.786,16,SOFT
+2024,Austrian Grand Prix,RIC,65.289,14,SOFT
+2024,Austrian Grand Prix,RUS,64.84,17,SOFT
+2024,Austrian Grand Prix,SAI,64.851,17,SOFT
+2024,Austrian Grand Prix,SAR,65.856,8,SOFT
+2024,Austrian Grand Prix,STR,65.819,8,SOFT
+2024,Austrian Grand Prix,TSU,65.412,11,SOFT
+2024,Austrian Grand Prix,VER,64.314,17,SOFT
+2024,Austrian Grand Prix,ZHO,66.061,8,SOFT
+2024,Azerbaijan Grand Prix,ALB,102.84,13,SOFT
+2024,Azerbaijan Grand Prix,ALO,102.369,18,SOFT
+2024,Azerbaijan Grand Prix,BEA,102.968,13,SOFT
+2024,Azerbaijan Grand Prix,BOT,103.618,6,SOFT
+2024,Azerbaijan Grand Prix,COL,102.473,13,SOFT
+2024,Azerbaijan Grand Prix,GAS,103.088,8,SOFT
+2024,Azerbaijan Grand Prix,HAM,102.289,21,SOFT
+2024,Azerbaijan Grand Prix,HUL,103.101,7,SOFT
+2024,Azerbaijan Grand Prix,LEC,101.365,19,SOFT
+2024,Azerbaijan Grand Prix,NOR,103.609,4,SOFT
+2024,Azerbaijan Grand Prix,OCO,104.504,5,SOFT
+2024,Azerbaijan Grand Prix,PER,101.813,14,SOFT
+2024,Azerbaijan Grand Prix,PIA,101.686,18,SOFT
+2024,Azerbaijan Grand Prix,RIC,103.547,7,SOFT
+2024,Azerbaijan Grand Prix,RUS,101.874,19,SOFT
+2024,Azerbaijan Grand Prix,SAI,101.805,22,SOFT
+2024,Azerbaijan Grand Prix,STR,103.37,7,SOFT
+2024,Azerbaijan Grand Prix,TSU,103.035,15,SOFT
+2024,Azerbaijan Grand Prix,VER,102.023,19,SOFT
+2024,Azerbaijan Grand Prix,ZHO,104.246,9,SOFT
+2024,Bahrain Grand Prix,ALB,90.221,11,SOFT
+2024,Bahrain Grand Prix,ALO,89.542,13,SOFT
+2024,Bahrain Grand Prix,BOT,90.756,5,SOFT
+2024,Bahrain Grand Prix,GAS,90.948,8,SOFT
+2024,Bahrain Grand Prix,HAM,89.71,17,SOFT
+2024,Bahrain Grand Prix,HUL,89.851,11,SOFT
+2024,Bahrain Grand Prix,LEC,89.165,12,SOFT
+2024,Bahrain Grand Prix,MAG,90.529,11,SOFT
+2024,Bahrain Grand Prix,NOR,89.614,14,SOFT
+2024,Bahrain Grand Prix,OCO,90.793,8,SOFT
+2024,Bahrain Grand Prix,PER,89.537,16,SOFT
+2024,Bahrain Grand Prix,PIA,89.683,17,SOFT
+2024,Bahrain Grand Prix,RIC,90.278,11,SOFT
+2024,Bahrain Grand Prix,RUS,89.485,16,SOFT
+2024,Bahrain Grand Prix,SAI,89.507,17,SOFT
+2024,Bahrain Grand Prix,SAR,90.77,2,SOFT
+2024,Bahrain Grand Prix,STR,89.965,5,SOFT
+2024,Bahrain Grand Prix,TSU,90.129,11,SOFT
+2024,Bahrain Grand Prix,VER,89.179,16,SOFT
+2024,Bahrain Grand Prix,ZHO,90.757,5,SOFT
+2024,Belgian Grand Prix,ALB,114.473,15,INTERMEDIATE
+2024,Belgian Grand Prix,ALO,114.258,16,INTERMEDIATE
+2024,Belgian Grand Prix,BOT,114.764,16,INTERMEDIATE
+2024,Belgian Grand Prix,GAS,114.635,16,INTERMEDIATE
+2024,Belgian Grand Prix,HAM,113.835,20,INTERMEDIATE
+2024,Belgian Grand Prix,HUL,116.308,8,INTERMEDIATE
+2024,Belgian Grand Prix,LEC,113.754,21,INTERMEDIATE
+2024,Belgian Grand Prix,MAG,116.5,8,INTERMEDIATE
+2024,Belgian Grand Prix,NOR,113.981,22,INTERMEDIATE
+2024,Belgian Grand Prix,OCO,114.46,16,INTERMEDIATE
+2024,Belgian Grand Prix,PER,113.765,18,INTERMEDIATE
+2024,Belgian Grand Prix,PIA,114.027,18,INTERMEDIATE
+2024,Belgian Grand Prix,RIC,114.682,13,INTERMEDIATE
+2024,Belgian Grand Prix,RUS,114.095,15,INTERMEDIATE
+2024,Belgian Grand Prix,SAI,114.112,16,INTERMEDIATE
+2024,Belgian Grand Prix,SAR,117.23,6,INTERMEDIATE
+2024,Belgian Grand Prix,STR,115.716,15,INTERMEDIATE
+2024,Belgian Grand Prix,TSU,116.593,7,INTERMEDIATE
+2024,Belgian Grand Prix,VER,113.159,17,INTERMEDIATE
+2024,Belgian Grand Prix,ZHO,117.775,5,INTERMEDIATE
+2024,British Grand Prix,ALB,86.64,22,SOFT
+2024,British Grand Prix,ALO,86.73,18,SOFT
+2024,British Grand Prix,BOT,92.431,8,SOFT
+2024,British Grand Prix,GAS,99.804,2,INTERMEDIATE
+2024,British Grand Prix,HAM,85.99,24,SOFT
+2024,British Grand Prix,HUL,86.338,16,SOFT
+2024,British Grand Prix,LEC,87.097,17,SOFT
+2024,British Grand Prix,MAG,92.905,5,SOFT
+2024,British Grand Prix,NOR,86.03,19,SOFT
+2024,British Grand Prix,OCO,94.557,9,SOFT
+2024,British Grand Prix,PER,98.348,2,INTERMEDIATE
+2024,British Grand Prix,PIA,86.237,20,SOFT
+2024,British Grand Prix,RIC,87.949,17,SOFT
+2024,British Grand Prix,RUS,85.819,25,SOFT
+2024,British Grand Prix,SAI,86.509,20,SOFT
+2024,British Grand Prix,SAR,87.175,17,SOFT
+2024,British Grand Prix,STR,86.585,23,SOFT
+2024,British Grand Prix,TSU,87.269,16,SOFT
+2024,British Grand Prix,VER,86.203,23,SOFT
+2024,British Grand Prix,ZHO,87.867,19,SOFT
+2024,Canadian Grand Prix,ALB,72.485,18,SOFT
+2024,Canadian Grand Prix,ALO,72.228,22,SOFT
+2024,Canadian Grand Prix,BOT,73.366,9,SOFT
+2024,Canadian Grand Prix,GAS,72.94,17,SOFT
+2024,Canadian Grand Prix,HAM,71.979,19,SOFT
+2024,Canadian Grand Prix,HUL,73.978,9,SOFT
+2024,Canadian Grand Prix,LEC,72.691,20,SOFT
+2024,Canadian Grand Prix,MAG,72.916,13,SOFT
+2024,Canadian Grand Prix,NOR,72.021,22,SOFT
+2024,Canadian Grand Prix,OCO,73.435,8,SOFT
+2024,Canadian Grand Prix,PER,73.326,10,SOFT
+2024,Canadian Grand Prix,PIA,72.103,26,SOFT
+2024,Canadian Grand Prix,RIC,72.178,24,SOFT
+2024,Canadian Grand Prix,RUS,71.742,19,SOFT
+2024,Canadian Grand Prix,SAI,72.728,21,SOFT
+2024,Canadian Grand Prix,SAR,72.736,21,SOFT
+2024,Canadian Grand Prix,STR,72.659,16,SOFT
+2024,Canadian Grand Prix,TSU,72.303,16,SOFT
+2024,Canadian Grand Prix,VER,72.0,26,SOFT
+2024,Canadian Grand Prix,ZHO,74.292,10,SOFT
+2024,Chinese Grand Prix,ALB,95.241,13,SOFT
+2024,Chinese Grand Prix,ALO,94.148,14,SOFT
+2024,Chinese Grand Prix,BOT,94.665,14,SOFT
+2024,Chinese Grand Prix,GAS,95.287,8,SOFT
+2024,Chinese Grand Prix,HAM,95.573,5,SOFT
+2024,Chinese Grand Prix,HUL,94.604,20,SOFT
+2024,Chinese Grand Prix,LEC,94.289,19,SOFT
+2024,Chinese Grand Prix,MAG,95.516,5,SOFT
+2024,Chinese Grand Prix,NOR,94.165,14,SOFT
+2024,Chinese Grand Prix,OCO,95.223,14,SOFT
+2024,Chinese Grand Prix,PER,93.982,18,SOFT
+2024,Chinese Grand Prix,PIA,94.273,15,SOFT
+2024,Chinese Grand Prix,RIC,94.934,11,SOFT
+2024,Chinese Grand Prix,RUS,94.433,19,SOFT
+2024,Chinese Grand Prix,SAI,94.297,16,SOFT
+2024,Chinese Grand Prix,SAR,96.358,4,SOFT
+2024,Chinese Grand Prix,STR,94.838,11,SOFT
+2024,Chinese Grand Prix,TSU,95.746,8,SOFT
+2024,Chinese Grand Prix,VER,93.66,17,SOFT
+2024,Chinese Grand Prix,ZHO,95.505,7,SOFT
+2024,Dutch Grand Prix,ALB,70.653,17,SOFT
+2024,Dutch Grand Prix,ALO,70.633,15,SOFT
+2024,Dutch Grand Prix,BOT,72.168,8,SOFT
+2024,Dutch Grand Prix,GAS,70.815,13,SOFT
+2024,Dutch Grand Prix,HAM,70.948,12,SOFT
+2024,Dutch Grand Prix,HUL,71.215,16,SOFT
+2024,Dutch Grand Prix,LEC,70.582,23,SOFT
+2024,Dutch Grand Prix,MAG,71.295,11,SOFT
+2024,Dutch Grand Prix,NOR,69.673,13,SOFT
+2024,Dutch Grand Prix,OCO,71.995,8,SOFT
+2024,Dutch Grand Prix,PER,70.416,16,SOFT
+2024,Dutch Grand Prix,PIA,70.172,15,SOFT
+2024,Dutch Grand Prix,RIC,71.943,8,SOFT
+2024,Dutch Grand Prix,RUS,70.244,17,SOFT
+2024,Dutch Grand Prix,SAI,70.914,17,SOFT
+2024,Dutch Grand Prix,STR,70.661,15,SOFT
+2024,Dutch Grand Prix,TSU,70.955,14,SOFT
+2024,Dutch Grand Prix,VER,70.029,13,SOFT
+2024,Dutch Grand Prix,ZHO,73.261,8,SOFT
+2024,Emilia Romagna Grand Prix,ALB,76.2,11,SOFT
+2024,Emilia Romagna Grand Prix,ALO,76.917,2,SOFT
+2024,Emilia Romagna Grand Prix,BOT,76.626,5,SOFT
+2024,Emilia Romagna Grand Prix,GAS,76.015,5,SOFT
+2024,Emilia Romagna Grand Prix,HAM,75.504,19,SOFT
+2024,Emilia Romagna Grand Prix,HUL,75.569,14,SOFT
+2024,Emilia Romagna Grand Prix,LEC,74.97,20,SOFT
+2024,Emilia Romagna Grand Prix,MAG,76.854,5,SOFT
+2024,Emilia Romagna Grand Prix,NOR,74.837,18,SOFT
+2024,Emilia Romagna Grand Prix,OCO,75.906,14,SOFT
+2024,Emilia Romagna Grand Prix,PER,75.706,9,SOFT
+2024,Emilia Romagna Grand Prix,PIA,74.82,14,SOFT
+2024,Emilia Romagna Grand Prix,RIC,75.674,14,SOFT
+2024,Emilia Romagna Grand Prix,RUS,75.234,17,SOFT
+2024,Emilia Romagna Grand Prix,SAI,75.233,19,SOFT
+2024,Emilia Romagna Grand Prix,SAR,76.731,7,SOFT
+2024,Emilia Romagna Grand Prix,STR,75.992,14,SOFT
+2024,Emilia Romagna Grand Prix,TSU,75.358,8,SOFT
+2024,Emilia Romagna Grand Prix,VER,74.746,17,SOFT
+2024,Emilia Romagna Grand Prix,ZHO,76.834,8,SOFT
+2024,Hungarian Grand Prix,ALB,76.429,15,SOFT
+2024,Hungarian Grand Prix,ALO,76.043,15,SOFT
+2024,Hungarian Grand Prix,BOT,76.384,18,SOFT
+2024,Hungarian Grand Prix,GAS,78.166,5,SOFT
+2024,Hungarian Grand Prix,HAM,75.854,20,SOFT
+2024,Hungarian Grand Prix,HUL,76.317,15,SOFT
+2024,Hungarian Grand Prix,LEC,75.891,15,SOFT
+2024,Hungarian Grand Prix,MAG,76.548,14,SOFT
+2024,Hungarian Grand Prix,NOR,75.227,17,SOFT
+2024,Hungarian Grand Prix,OCO,78.049,5,SOFT
+2024,Hungarian Grand Prix,PER,77.886,2,SOFT
+2024,Hungarian Grand Prix,PIA,75.249,18,SOFT
+2024,Hungarian Grand Prix,RIC,76.202,11,SOFT
+2024,Hungarian Grand Prix,RUS,77.968,8,SOFT
+2024,Hungarian Grand Prix,SAI,75.696,24,SOFT
+2024,Hungarian Grand Prix,SAR,76.543,12,SOFT
+2024,Hungarian Grand Prix,STR,76.075,15,SOFT
+2024,Hungarian Grand Prix,TSU,76.121,14,SOFT
+2024,Hungarian Grand Prix,VER,75.273,20,SOFT
+2024,Hungarian Grand Prix,ZHO,78.037,11,SOFT
+2024,Italian Grand Prix,ALB,80.299,17,SOFT
+2024,Italian Grand Prix,ALO,80.421,10,SOFT
+2024,Italian Grand Prix,BOT,81.101,2,SOFT
+2024,Italian Grand Prix,COL,81.061,2,SOFT
+2024,Italian Grand Prix,GAS,80.738,11,SOFT
+2024,Italian Grand Prix,HAM,79.513,17,SOFT
+2024,Italian Grand Prix,HUL,80.339,17,SOFT
+2024,Italian Grand Prix,LEC,79.461,20,SOFT
+2024,Italian Grand Prix,MAG,80.698,7,SOFT
+2024,Italian Grand Prix,NOR,79.327,11,SOFT
+2024,Italian Grand Prix,OCO,80.764,5,SOFT
+2024,Italian Grand Prix,PER,80.062,14,SOFT
+2024,Italian Grand Prix,PIA,79.436,15,SOFT
+2024,Italian Grand Prix,RIC,80.479,11,SOFT
+2024,Italian Grand Prix,RUS,79.44,17,SOFT
+2024,Italian Grand Prix,SAI,79.467,17,SOFT
+2024,Italian Grand Prix,STR,81.013,2,SOFT
+2024,Italian Grand Prix,TSU,80.945,5,SOFT
+2024,Italian Grand Prix,VER,79.662,11,SOFT
+2024,Italian Grand Prix,ZHO,81.445,8,SOFT
+2024,Japanese Grand Prix,ALB,89.714,8,SOFT
+2024,Japanese Grand Prix,ALO,88.686,11,SOFT
+2024,Japanese Grand Prix,BOT,89.593,11,SOFT
+2024,Japanese Grand Prix,GAS,90.119,5,SOFT
+2024,Japanese Grand Prix,HAM,88.766,11,SOFT
+2024,Japanese Grand Prix,HUL,89.494,11,SOFT
+2024,Japanese Grand Prix,LEC,88.786,11,SOFT
+2024,Japanese Grand Prix,MAG,90.131,8,SOFT
+2024,Japanese Grand Prix,NOR,88.489,9,SOFT
+2024,Japanese Grand Prix,OCO,89.811,5,SOFT
+2024,Japanese Grand Prix,PER,88.263,11,SOFT
+2024,Japanese Grand Prix,PIA,88.76,8,SOFT
+2024,Japanese Grand Prix,RIC,89.472,11,SOFT
+2024,Japanese Grand Prix,RUS,89.008,11,SOFT
+2024,Japanese Grand Prix,SAI,88.682,8,SOFT
+2024,Japanese Grand Prix,SAR,90.139,5,SOFT
+2024,Japanese Grand Prix,STR,90.024,2,SOFT
+2024,Japanese Grand Prix,TSU,89.413,17,SOFT
+2024,Japanese Grand Prix,VER,88.197,11,SOFT
+2024,Japanese Grand Prix,ZHO,90.143,5,SOFT
+2024,Las Vegas Grand Prix,ALB,94.425,5,SOFT
+2024,Las Vegas Grand Prix,ALO,94.258,5,SOFT
+2024,Las Vegas Grand Prix,BOT,94.43,7,SOFT
+2024,Las Vegas Grand Prix,COL,93.746,9,SOFT
+2024,Las Vegas Grand Prix,GAS,92.664,24,SOFT
+2024,Las Vegas Grand Prix,HAM,92.567,17,SOFT
+2024,Las Vegas Grand Prix,HUL,93.062,16,SOFT
+2024,Las Vegas Grand Prix,LAW,94.087,9,SOFT
+2024,Las Vegas Grand Prix,LEC,92.783,22,SOFT
+2024,Las Vegas Grand Prix,MAG,93.297,11,SOFT
+2024,Las Vegas Grand Prix,NOR,93.008,19,SOFT
+2024,Las Vegas Grand Prix,OCO,93.221,17,SOFT
+2024,Las Vegas Grand Prix,PER,94.155,9,SOFT
+2024,Las Vegas Grand Prix,PIA,93.024,13,SOFT
+2024,Las Vegas Grand Prix,RUS,92.312,24,SOFT
+2024,Las Vegas Grand Prix,SAI,92.41,23,SOFT
+2024,Las Vegas Grand Prix,STR,94.484,2,SOFT
+2024,Las Vegas Grand Prix,TSU,93.029,24,SOFT
+2024,Las Vegas Grand Prix,VER,92.797,20,SOFT
+2024,Las Vegas Grand Prix,ZHO,93.566,16,SOFT
+2024,Mexico City Grand Prix,ALB,76.988,11,SOFT
+2024,Mexico City Grand Prix,ALO,77.168,10,SOFT
+2024,Mexico City Grand Prix,BOT,77.393,8,SOFT
+2024,Mexico City Grand Prix,COL,77.558,5,SOFT
+2024,Mexico City Grand Prix,GAS,76.892,17,SOFT
+2024,Mexico City Grand Prix,HAM,76.651,15,SOFT
+2024,Mexico City Grand Prix,HUL,76.995,11,SOFT
+2024,Mexico City Grand Prix,LAW,77.162,8,SOFT
+2024,Mexico City Grand Prix,LEC,76.265,20,SOFT
+2024,Mexico City Grand Prix,MAG,76.886,17,SOFT
+2024,Mexico City Grand Prix,NOR,76.26,14,SOFT
+2024,Mexico City Grand Prix,OCO,77.617,8,SOFT
+2024,Mexico City Grand Prix,PER,77.611,8,SOFT
+2024,Mexico City Grand Prix,PIA,77.597,7,SOFT
+2024,Mexico City Grand Prix,RUS,76.356,18,SOFT
+2024,Mexico City Grand Prix,SAI,75.946,20,SOFT
+2024,Mexico City Grand Prix,STR,77.294,11,SOFT
+2024,Mexico City Grand Prix,TSU,77.129,8,SOFT
+2024,Mexico City Grand Prix,VER,76.171,17,SOFT
+2024,Mexico City Grand Prix,ZHO,78.072,8,SOFT
+2024,Miami Grand Prix,ALB,88.343,8,SOFT
+2024,Miami Grand Prix,ALO,88.427,14,SOFT
+2024,Miami Grand Prix,BOT,88.463,5,SOFT
+2024,Miami Grand Prix,GAS,87.976,8,SOFT
+2024,Miami Grand Prix,HAM,87.697,14,SOFT
+2024,Miami Grand Prix,HUL,88.146,20,SOFT
+2024,Miami Grand Prix,LEC,87.382,17,SOFT
+2024,Miami Grand Prix,MAG,88.619,8,SOFT
+2024,Miami Grand Prix,NOR,87.594,20,SOFT
+2024,Miami Grand Prix,OCO,88.209,8,SOFT
+2024,Miami Grand Prix,PER,87.46,17,SOFT
+2024,Miami Grand Prix,PIA,87.675,15,SOFT
+2024,Miami Grand Prix,RIC,88.617,2,SOFT
+2024,Miami Grand Prix,RUS,88.067,17,SOFT
+2024,Miami Grand Prix,SAI,87.455,17,SOFT
+2024,Miami Grand Prix,SAR,88.487,7,SOFT
+2024,Miami Grand Prix,STR,88.177,8,SOFT
+2024,Miami Grand Prix,TSU,88.167,14,SOFT
+2024,Miami Grand Prix,VER,87.241,14,SOFT
+2024,Miami Grand Prix,ZHO,88.824,5,SOFT
+2024,Monaco Grand Prix,ALB,70.948,28,SOFT
+2024,Monaco Grand Prix,ALO,72.019,8,SOFT
+2024,Monaco Grand Prix,BOT,72.512,10,SOFT
+2024,Monaco Grand Prix,GAS,70.896,21,SOFT
+2024,Monaco Grand Prix,HAM,70.621,27,SOFT
+2024,Monaco Grand Prix,HUL,71.44,19,SOFT
+2024,Monaco Grand Prix,LEC,70.27,25,SOFT
+2024,Monaco Grand Prix,MAG,71.725,13,SOFT
+2024,Monaco Grand Prix,NOR,70.542,26,SOFT
+2024,Monaco Grand Prix,OCO,71.285,15,SOFT
+2024,Monaco Grand Prix,PER,72.06,9,SOFT
+2024,Monaco Grand Prix,PIA,70.424,23,SOFT
+2024,Monaco Grand Prix,RIC,71.482,20,SOFT
+2024,Monaco Grand Prix,RUS,70.543,27,SOFT
+2024,Monaco Grand Prix,SAI,70.518,27,SOFT
+2024,Monaco Grand Prix,SAR,72.02,11,SOFT
+2024,Monaco Grand Prix,STR,71.563,13,SOFT
+2024,Monaco Grand Prix,TSU,70.858,24,SOFT
+2024,Monaco Grand Prix,VER,70.567,24,SOFT
+2024,Monaco Grand Prix,ZHO,73.028,10,SOFT
+2024,Qatar Grand Prix,ALB,82.39,8,SOFT
+2024,Qatar Grand Prix,ALO,81.208,12,SOFT
+2024,Qatar Grand Prix,BOT,81.731,18,SOFT
+2024,Qatar Grand Prix,COL,82.594,8,SOFT
+2024,Qatar Grand Prix,GAS,81.437,13,SOFT
+2024,Qatar Grand Prix,HAM,81.011,22,SOFT
+2024,Qatar Grand Prix,HUL,82.442,6,SOFT
+2024,Qatar Grand Prix,LAW,82.411,5,SOFT
+2024,Qatar Grand Prix,LEC,80.852,25,SOFT
+2024,Qatar Grand Prix,MAG,81.387,18,SOFT
+2024,Qatar Grand Prix,NOR,80.772,21,SOFT
+2024,Qatar Grand Prix,OCO,82.714,9,SOFT
+2024,Qatar Grand Prix,PER,81.425,12,SOFT
+2024,Qatar Grand Prix,PIA,80.829,21,SOFT
+2024,Qatar Grand Prix,RUS,80.575,23,SOFT
+2024,Qatar Grand Prix,SAI,81.041,25,SOFT
+2024,Qatar Grand Prix,STR,81.911,13,SOFT
+2024,Qatar Grand Prix,TSU,81.771,15,SOFT
+2024,Qatar Grand Prix,VER,80.52,21,SOFT
+2024,Qatar Grand Prix,ZHO,81.501,18,SOFT
+2024,Saudi Arabian Grand Prix,ALB,88.98,15,SOFT
+2024,Saudi Arabian Grand Prix,ALO,87.846,16,SOFT
+2024,Saudi Arabian Grand Prix,BEA,88.642,17,SOFT
+2024,Saudi Arabian Grand Prix,BOT,89.179,7,SOFT
+2024,Saudi Arabian Grand Prix,GAS,89.479,5,SOFT
+2024,Saudi Arabian Grand Prix,HAM,88.46,23,SOFT
+2024,Saudi Arabian Grand Prix,HUL,89.055,7,SOFT
+2024,Saudi Arabian Grand Prix,LEC,87.791,22,SOFT
+2024,Saudi Arabian Grand Prix,MAG,89.02,13,SOFT
+2024,Saudi Arabian Grand Prix,NOR,88.132,21,SOFT
+2024,Saudi Arabian Grand Prix,OCO,89.475,9,SOFT
+2024,Saudi Arabian Grand Prix,PER,87.807,15,SOFT
+2024,Saudi Arabian Grand Prix,PIA,88.089,21,SOFT
+2024,Saudi Arabian Grand Prix,RIC,89.025,8,SOFT
+2024,Saudi Arabian Grand Prix,RUS,88.316,19,SOFT
+2024,Saudi Arabian Grand Prix,SAR,89.526,8,SOFT
+2024,Saudi Arabian Grand Prix,STR,88.25,7,SOFT
+2024,Saudi Arabian Grand Prix,TSU,88.547,17,SOFT
+2024,Saudi Arabian Grand Prix,VER,87.472,14,SOFT
+2024,Saudi Arabian Grand Prix,ZHO,121.101,2,SOFT
+2024,Singapore Grand Prix,ALB,90.474,11,SOFT
+2024,Singapore Grand Prix,ALO,90.214,16,SOFT
+2024,Singapore Grand Prix,BOT,91.572,8,SOFT
+2024,Singapore Grand Prix,COL,90.481,11,SOFT
+2024,Singapore Grand Prix,GAS,91.312,8,SOFT
+2024,Singapore Grand Prix,HAM,89.841,15,SOFT
+2024,Singapore Grand Prix,HUL,90.115,17,SOFT
+2024,Singapore Grand Prix,LEC,89.747,13,SOFT
+2024,Singapore Grand Prix,MAG,90.653,11,SOFT
+2024,Singapore Grand Prix,NOR,89.525,15,SOFT
+2024,Singapore Grand Prix,OCO,90.769,14,SOFT
+2024,Singapore Grand Prix,PER,90.579,13,SOFT
+2024,Singapore Grand Prix,PIA,89.64,11,SOFT
+2024,Singapore Grand Prix,RIC,91.085,5,SOFT
+2024,Singapore Grand Prix,RUS,89.867,16,SOFT
+2024,Singapore Grand Prix,SAI,90.108,14,SOFT
+2024,Singapore Grand Prix,STR,91.094,5,SOFT
+2024,Singapore Grand Prix,TSU,90.289,11,SOFT
+2024,Singapore Grand Prix,VER,89.68,11,SOFT
+2024,Singapore Grand Prix,ZHO,92.054,8,SOFT
+2024,Spanish Grand Prix,ALB,73.153,5,SOFT
+2024,Spanish Grand Prix,ALO,72.128,11,SOFT
+2024,Spanish Grand Prix,BOT,72.227,11,SOFT
+2024,Spanish Grand Prix,GAS,71.857,17,SOFT
+2024,Spanish Grand Prix,HAM,71.701,17,SOFT
+2024,Spanish Grand Prix,HUL,72.31,11,SOFT
+2024,Spanish Grand Prix,LEC,71.731,11,SOFT
+2024,Spanish Grand Prix,MAG,72.937,5,SOFT
+2024,Spanish Grand Prix,NOR,71.383,11,SOFT
+2024,Spanish Grand Prix,OCO,72.109,11,SOFT
+2024,Spanish Grand Prix,PER,72.054,11,SOFT
+2024,Spanish Grand Prix,PIA,72.011,8,SOFT
+2024,Spanish Grand Prix,RIC,73.075,8,SOFT
+2024,Spanish Grand Prix,RUS,71.703,15,SOFT
+2024,Spanish Grand Prix,SAI,71.736,11,SOFT
+2024,Spanish Grand Prix,SAR,73.509,8,SOFT
+2024,Spanish Grand Prix,STR,72.372,14,SOFT
+2024,Spanish Grand Prix,TSU,72.985,8,SOFT
+2024,Spanish Grand Prix,VER,71.403,11,SOFT
+2024,Spanish Grand Prix,ZHO,72.738,14,SOFT
+2024,São Paulo Grand Prix,ALB,84.657,24,INTERMEDIATE
+2024,São Paulo Grand Prix,ALO,85.035,17,INTERMEDIATE
+2024,São Paulo Grand Prix,BEA,91.229,10,WET
+2024,São Paulo Grand Prix,BOT,86.472,20,INTERMEDIATE
+2024,São Paulo Grand Prix,COL,91.27,3,WET
+2024,São Paulo Grand Prix,GAS,89.42,12,WET
+2024,São Paulo Grand Prix,HAM,91.15,10,WET
+2024,São Paulo Grand Prix,HUL,91.623,10,WET
+2024,São Paulo Grand Prix,LAW,84.484,29,INTERMEDIATE
+2024,São Paulo Grand Prix,LEC,84.525,28,INTERMEDIATE
+2024,São Paulo Grand Prix,NOR,83.405,32,INTERMEDIATE
+2024,São Paulo Grand Prix,OCO,84.475,30,INTERMEDIATE
+2024,São Paulo Grand Prix,PER,88.158,12,WET
+2024,São Paulo Grand Prix,PIA,84.686,22,INTERMEDIATE
+2024,São Paulo Grand Prix,RUS,83.578,28,INTERMEDIATE
+2024,São Paulo Grand Prix,SAI,89.406,13,WET
+2024,São Paulo Grand Prix,STR,86.334,18,INTERMEDIATE
+2024,São Paulo Grand Prix,TSU,84.111,29,INTERMEDIATE
+2024,São Paulo Grand Prix,VER,87.771,13,WET
+2024,São Paulo Grand Prix,ZHO,92.263,11,WET
+2024,United States Grand Prix,ALB,94.051,7,SOFT
+2024,United States Grand Prix,ALO,93.309,17,SOFT
+2024,United States Grand Prix,BOT,94.152,8,SOFT
+2024,United States Grand Prix,COL,94.062,3,SOFT
+2024,United States Grand Prix,GAS,93.018,17,SOFT
+2024,United States Grand Prix,HAM,94.154,5,SOFT
+2024,United States Grand Prix,HUL,93.544,8,SOFT
+2024,United States Grand Prix,LAW,93.339,7,SOFT
+2024,United States Grand Prix,LEC,92.74,17,SOFT
+2024,United States Grand Prix,MAG,93.474,11,SOFT
+2024,United States Grand Prix,NOR,92.33,13,SOFT
+2024,United States Grand Prix,OCO,93.597,14,SOFT
+2024,United States Grand Prix,PER,93.02,11,SOFT
+2024,United States Grand Prix,PIA,92.95,16,SOFT
+2024,United States Grand Prix,RUS,92.974,12,SOFT
+2024,United States Grand Prix,SAI,92.652,16,SOFT
+2024,United States Grand Prix,STR,93.759,10,SOFT
+2024,United States Grand Prix,TSU,93.506,13,SOFT
+2024,United States Grand Prix,VER,92.361,14,SOFT
+2024,United States Grand Prix,ZHO,94.228,8,SOFT

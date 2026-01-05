@@ -1,0 +1,19 @@
+season,race,predicted_winner,win_probability,top3,actual_winner,top1_correct,top3_list,top3_correct
+2024,Abu Dhabi Grand Prix,SAI,0.26973665,"SAI, HUL, VER",NOR,False,"['SAI', 'HUL', 'VER']",False
+2024,Australian Grand Prix,LEC,0.3008815,"LEC, NOR, PER",SAI,False,"['LEC', 'NOR', 'PER']",False
+2024,Azerbaijan Grand Prix,SAI,0.25176108,"SAI, PER, PIA",PIA,False,"['SAI', 'PER', 'PIA']",True
+2024,Bahrain Grand Prix,VER,0.2903195,"VER, PER, RUS",VER,True,"['VER', 'PER', 'RUS']",True
+2024,Belgian Grand Prix,VER,0.19964284,"VER, PER, LEC",HAM,False,"['VER', 'PER', 'LEC']",False
+2024,British Grand Prix,HAM,0.20188868,"HAM, RUS, NOR",HAM,True,"['HAM', 'RUS', 'NOR']",True
+2024,Canadian Grand Prix,NOR,0.18743491,"NOR, RUS, HAM",VER,False,"['NOR', 'RUS', 'HAM']",False
+2024,Dutch Grand Prix,VER,0.34670097,"VER, NOR, PIA",NOR,False,"['VER', 'NOR', 'PIA']",True
+2024,Emilia Romagna Grand Prix,PIA,0.2731006,"PIA, VER, LEC",VER,False,"['PIA', 'VER', 'LEC']",True
+2024,Hungarian Grand Prix,VER,0.3465151,"VER, NOR, PIA",PIA,False,"['VER', 'NOR', 'PIA']",True
+2024,Italian Grand Prix,HAM,0.21637791,"HAM, PIA, VER",LEC,False,"['HAM', 'PIA', 'VER']",False
+2024,Japanese Grand Prix,SAI,0.23730099,"SAI, HAM, NOR",VER,False,"['SAI', 'HAM', 'NOR']",False
+2024,Las Vegas Grand Prix,HAM,0.17954811,"HAM, RUS, SAI",RUS,False,"['HAM', 'RUS', 'SAI']",True
+2024,Mexico City Grand Prix,RUS,0.23033616,"RUS, VER, NOR",SAI,False,"['RUS', 'VER', 'NOR']",False
+2024,Monaco Grand Prix,SAI,0.19938397,"SAI, LEC, VER",LEC,False,"['SAI', 'LEC', 'VER']",True
+2024,Saudi Arabian Grand Prix,VER,0.35268858,"VER, ALO, LEC",VER,True,"['VER', 'ALO', 'LEC']",True
+2024,Singapore Grand Prix,LEC,0.26054972,"LEC, NOR, PIA",NOR,False,"['LEC', 'NOR', 'PIA']",True
+2024,Spanish Grand Prix,RUS,0.21391469,"RUS, SAI, VER",VER,False,"['RUS', 'SAI', 'VER']",True

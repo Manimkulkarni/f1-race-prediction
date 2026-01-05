@@ -1,0 +1,440 @@
+season,race,driver,best_quali_lap,best_quali_lap_number,best_quali_compound
+2023,Abu Dhabi Grand Prix,ALB,84.298,5,SOFT
+2023,Abu Dhabi Grand Prix,ALO,84.084,17,SOFT
+2023,Abu Dhabi Grand Prix,BOT,84.788,5,SOFT
+2023,Abu Dhabi Grand Prix,GAS,84.078,11,SOFT
+2023,Abu Dhabi Grand Prix,HAM,84.359,11,SOFT
+2023,Abu Dhabi Grand Prix,HUL,84.108,17,SOFT
+2023,Abu Dhabi Grand Prix,LEC,83.584,17,SOFT
+2023,Abu Dhabi Grand Prix,MAG,84.764,5,SOFT
+2023,Abu Dhabi Grand Prix,NOR,83.816,12,SOFT
+2023,Abu Dhabi Grand Prix,OCO,84.391,11,SOFT
+2023,Abu Dhabi Grand Prix,PER,83.868,16,SOFT
+2023,Abu Dhabi Grand Prix,PIA,83.782,16,SOFT
+2023,Abu Dhabi Grand Prix,RIC,84.442,11,SOFT
+2023,Abu Dhabi Grand Prix,RUS,83.788,17,SOFT
+2023,Abu Dhabi Grand Prix,SAI,84.738,5,SOFT
+2023,Abu Dhabi Grand Prix,SAR,84.532,5,SOFT
+2023,Abu Dhabi Grand Prix,STR,84.405,5,SOFT
+2023,Abu Dhabi Grand Prix,TSU,83.968,17,SOFT
+2023,Abu Dhabi Grand Prix,VER,83.445,11,SOFT
+2023,Abu Dhabi Grand Prix,ZHO,85.114,2,SOFT
+2023,Australian Grand Prix,ALB,77.609,26,SOFT
+2023,Australian Grand Prix,ALO,77.139,25,SOFT
+2023,Australian Grand Prix,BOT,78.714,11,SOFT
+2023,Australian Grand Prix,DEV,78.335,20,SOFT
+2023,Australian Grand Prix,GAS,77.574,16,SOFT
+2023,Australian Grand Prix,HAM,77.104,27,SOFT
+2023,Australian Grand Prix,HUL,77.412,18,SOFT
+2023,Australian Grand Prix,LEC,77.369,24,SOFT
+2023,Australian Grand Prix,MAG,78.129,17,SOFT
+2023,Australian Grand Prix,NOR,78.119,23,SOFT
+2023,Australian Grand Prix,OCO,77.768,15,SOFT
+2023,Australian Grand Prix,PER,100.187,1,SOFT
+2023,Australian Grand Prix,PIA,78.517,11,SOFT
+2023,Australian Grand Prix,RUS,76.968,28,SOFT
+2023,Australian Grand Prix,SAI,77.27,27,SOFT
+2023,Australian Grand Prix,SAR,78.557,9,SOFT
+2023,Australian Grand Prix,STR,77.308,25,SOFT
+2023,Australian Grand Prix,TSU,78.099,21,SOFT
+2023,Australian Grand Prix,VER,76.732,23,SOFT
+2023,Australian Grand Prix,ZHO,78.54,9,SOFT
+2023,Austrian Grand Prix,ALB,65.34,20,SOFT
+2023,Austrian Grand Prix,ALO,64.911,26,SOFT
+2023,Austrian Grand Prix,BOT,65.513,13,SOFT
+2023,Austrian Grand Prix,DEV,65.974,9,SOFT
+2023,Austrian Grand Prix,GAS,65.084,14,SOFT
+2023,Austrian Grand Prix,HAM,64.819,24,SOFT
+2023,Austrian Grand Prix,HUL,65.09,23,SOFT
+2023,Austrian Grand Prix,LEC,64.439,25,SOFT
+2023,Austrian Grand Prix,MAG,65.793,6,SOFT
+2023,Austrian Grand Prix,NOR,64.658,22,SOFT
+2023,Austrian Grand Prix,OCO,65.295,14,SOFT
+2023,Austrian Grand Prix,PER,64.99,18,SOFT
+2023,Austrian Grand Prix,PIA,65.213,18,SOFT
+2023,Austrian Grand Prix,RUS,65.408,17,SOFT
+2023,Austrian Grand Prix,SAI,64.581,24,SOFT
+2023,Austrian Grand Prix,SAR,65.948,8,SOFT
+2023,Austrian Grand Prix,STR,64.893,24,SOFT
+2023,Austrian Grand Prix,TSU,65.784,6,SOFT
+2023,Austrian Grand Prix,VER,64.391,23,SOFT
+2023,Austrian Grand Prix,ZHO,65.818,8,SOFT
+2023,Azerbaijan Grand Prix,ALB,101.818,18,SOFT
+2023,Azerbaijan Grand Prix,ALO,101.253,22,SOFT
+2023,Azerbaijan Grand Prix,BOT,102.259,16,SOFT
+2023,Azerbaijan Grand Prix,DEV,115.282,2,SOFT
+2023,Azerbaijan Grand Prix,GAS,104.853,2,SOFT
+2023,Azerbaijan Grand Prix,HAM,101.177,20,SOFT
+2023,Azerbaijan Grand Prix,HUL,102.755,9,SOFT
+2023,Azerbaijan Grand Prix,LEC,100.203,20,SOFT
+2023,Azerbaijan Grand Prix,MAG,103.417,4,SOFT
+2023,Azerbaijan Grand Prix,NOR,101.281,19,SOFT
+2023,Azerbaijan Grand Prix,OCO,101.798,18,SOFT
+2023,Azerbaijan Grand Prix,PER,100.495,20,SOFT
+2023,Azerbaijan Grand Prix,PIA,101.611,23,SOFT
+2023,Azerbaijan Grand Prix,RUS,101.654,16,SOFT
+2023,Azerbaijan Grand Prix,SAI,101.016,20,SOFT
+2023,Azerbaijan Grand Prix,SAR,102.242,10,SOFT
+2023,Azerbaijan Grand Prix,STR,101.576,15,SOFT
+2023,Azerbaijan Grand Prix,TSU,101.569,16,SOFT
+2023,Azerbaijan Grand Prix,VER,100.391,19,SOFT
+2023,Azerbaijan Grand Prix,ZHO,102.642,10,SOFT
+2023,Bahrain Grand Prix,ALB,91.461,5,SOFT
+2023,Bahrain Grand Prix,ALO,90.336,14,SOFT
+2023,Bahrain Grand Prix,BOT,91.443,11,SOFT
+2023,Bahrain Grand Prix,DEV,92.121,5,SOFT
+2023,Bahrain Grand Prix,GAS,91.818,5,SOFT
+2023,Bahrain Grand Prix,HAM,90.384,14,SOFT
+2023,Bahrain Grand Prix,HUL,90.809,13,SOFT
+2023,Bahrain Grand Prix,LEC,90.0,16,SOFT
+2023,Bahrain Grand Prix,MAG,91.892,5,SOFT
+2023,Bahrain Grand Prix,NOR,91.381,12,SOFT
+2023,Bahrain Grand Prix,OCO,90.914,11,SOFT
+2023,Bahrain Grand Prix,PER,89.846,14,SOFT
+2023,Bahrain Grand Prix,PIA,92.101,6,SOFT
+2023,Bahrain Grand Prix,RUS,90.34,14,SOFT
+2023,Bahrain Grand Prix,SAI,90.154,17,SOFT
+2023,Bahrain Grand Prix,SAR,91.652,5,SOFT
+2023,Bahrain Grand Prix,STR,90.836,17,SOFT
+2023,Bahrain Grand Prix,TSU,91.4,8,SOFT
+2023,Bahrain Grand Prix,VER,89.708,14,SOFT
+2023,Bahrain Grand Prix,ZHO,91.473,11,SOFT
+2023,Belgian Grand Prix,ALB,120.314,7,INTERMEDIATE
+2023,Belgian Grand Prix,ALO,107.843,21,SOFT
+2023,Belgian Grand Prix,BOT,114.694,16,SOFT
+2023,Belgian Grand Prix,GAS,113.671,16,SOFT
+2023,Belgian Grand Prix,HAM,107.087,23,SOFT
+2023,Belgian Grand Prix,HUL,123.166,3,INTERMEDIATE
+2023,Belgian Grand Prix,LEC,106.988,22,SOFT
+2023,Belgian Grand Prix,MAG,114.16,16,SOFT
+2023,Belgian Grand Prix,NOR,107.669,20,SOFT
+2023,Belgian Grand Prix,OCO,116.372,10,INTERMEDIATE
+2023,Belgian Grand Prix,PER,107.045,21,SOFT
+2023,Belgian Grand Prix,PIA,107.365,22,SOFT
+2023,Belgian Grand Prix,RIC,119.483,7,INTERMEDIATE
+2023,Belgian Grand Prix,RUS,107.805,23,SOFT
+2023,Belgian Grand Prix,SAI,107.152,22,SOFT
+2023,Belgian Grand Prix,SAR,121.535,5,INTERMEDIATE
+2023,Belgian Grand Prix,STR,108.841,21,SOFT
+2023,Belgian Grand Prix,TSU,113.148,14,SOFT
+2023,Belgian Grand Prix,VER,106.168,21,SOFT
+2023,Belgian Grand Prix,ZHO,120.832,6,INTERMEDIATE
+2023,British Grand Prix,ALB,87.53,24,SOFT
+2023,British Grand Prix,ALO,87.659,23,SOFT
+2023,British Grand Prix,BOT,89.798,10,SOFT
+2023,British Grand Prix,DEV,90.513,10,SOFT
+2023,British Grand Prix,GAS,87.689,23,SOFT
+2023,British Grand Prix,HAM,87.211,24,SOFT
+2023,British Grand Prix,HUL,88.896,16,SOFT
+2023,British Grand Prix,LEC,87.136,24,SOFT
+2023,British Grand Prix,MAG,92.378,5,SOFT
+2023,British Grand Prix,NOR,86.961,25,SOFT
+2023,British Grand Prix,OCO,88.956,17,SOFT
+2023,British Grand Prix,PER,89.968,10,SOFT
+2023,British Grand Prix,PIA,87.092,25,SOFT
+2023,British Grand Prix,RUS,87.155,23,SOFT
+2023,British Grand Prix,SAI,87.148,25,SOFT
+2023,British Grand Prix,SAR,89.031,18,SOFT
+2023,British Grand Prix,STR,88.935,18,SOFT
+2023,British Grand Prix,TSU,90.025,10,SOFT
+2023,British Grand Prix,VER,86.72,25,SOFT
+2023,British Grand Prix,ZHO,90.123,10,SOFT
+2023,Canadian Grand Prix,ALB,78.725,18,SOFT
+2023,Canadian Grand Prix,ALO,79.776,16,INTERMEDIATE
+2023,Canadian Grand Prix,BOT,81.821,15,INTERMEDIATE
+2023,Canadian Grand Prix,DEV,83.137,11,INTERMEDIATE
+2023,Canadian Grand Prix,GAS,82.886,7,INTERMEDIATE
+2023,Canadian Grand Prix,HAM,80.426,16,INTERMEDIATE
+2023,Canadian Grand Prix,HUL,80.305,19,SOFT
+2023,Canadian Grand Prix,LEC,80.615,14,INTERMEDIATE
+2023,Canadian Grand Prix,MAG,81.678,14,INTERMEDIATE
+2023,Canadian Grand Prix,NOR,79.347,18,SOFT
+2023,Canadian Grand Prix,OCO,80.406,18,SOFT
+2023,Canadian Grand Prix,PER,80.959,15,INTERMEDIATE
+2023,Canadian Grand Prix,PIA,79.659,18,SOFT
+2023,Canadian Grand Prix,RUS,80.098,14,INTERMEDIATE
+2023,Canadian Grand Prix,SAI,79.856,18,SOFT
+2023,Canadian Grand Prix,SAR,83.337,13,INTERMEDIATE
+2023,Canadian Grand Prix,STR,81.484,16,INTERMEDIATE
+2023,Canadian Grand Prix,TSU,82.746,10,INTERMEDIATE
+2023,Canadian Grand Prix,VER,79.092,18,SOFT
+2023,Canadian Grand Prix,ZHO,83.342,10,INTERMEDIATE
+2023,Dutch Grand Prix,ALB,71.419,31,SOFT
+2023,Dutch Grand Prix,ALO,71.506,29,SOFT
+2023,Dutch Grand Prix,BOT,82.26,11,INTERMEDIATE
+2023,Dutch Grand Prix,GAS,80.128,20,INTERMEDIATE
+2023,Dutch Grand Prix,HAM,80.151,22,INTERMEDIATE
+2023,Dutch Grand Prix,HUL,80.25,19,INTERMEDIATE
+2023,Dutch Grand Prix,LAW,83.42,10,INTERMEDIATE
+2023,Dutch Grand Prix,LEC,72.665,26,SOFT
+2023,Dutch Grand Prix,MAG,82.192,9,INTERMEDIATE
+2023,Dutch Grand Prix,NOR,71.104,29,SOFT
+2023,Dutch Grand Prix,OCO,82.11,10,INTERMEDIATE
+2023,Dutch Grand Prix,PER,71.88,32,SOFT
+2023,Dutch Grand Prix,PIA,71.938,30,SOFT
+2023,Dutch Grand Prix,RUS,71.294,31,SOFT
+2023,Dutch Grand Prix,SAI,71.754,31,SOFT
+2023,Dutch Grand Prix,SAR,76.748,26,SOFT
+2023,Dutch Grand Prix,STR,80.121,20,INTERMEDIATE
+2023,Dutch Grand Prix,TSU,80.23,21,INTERMEDIATE
+2023,Dutch Grand Prix,VER,70.567,30,SOFT
+2023,Dutch Grand Prix,ZHO,82.067,11,INTERMEDIATE
+2023,Hungarian Grand Prix,ALB,78.917,7,HARD
+2023,Hungarian Grand Prix,ALO,77.035,20,SOFT
+2023,Hungarian Grand Prix,BOT,77.034,19,SOFT
+2023,Hungarian Grand Prix,GAS,78.045,15,MEDIUM
+2023,Hungarian Grand Prix,HAM,76.609,19,SOFT
+2023,Hungarian Grand Prix,HUL,77.186,19,SOFT
+2023,Hungarian Grand Prix,LEC,76.992,20,SOFT
+2023,Hungarian Grand Prix,MAG,79.206,7,HARD
+2023,Hungarian Grand Prix,NOR,76.694,19,SOFT
+2023,Hungarian Grand Prix,OCO,77.841,15,MEDIUM
+2023,Hungarian Grand Prix,PER,77.045,22,SOFT
+2023,Hungarian Grand Prix,PIA,76.905,19,SOFT
+2023,Hungarian Grand Prix,RIC,78.002,14,MEDIUM
+2023,Hungarian Grand Prix,RUS,79.027,8,HARD
+2023,Hungarian Grand Prix,SAI,77.703,14,MEDIUM
+2023,Hungarian Grand Prix,SAR,79.248,7,HARD
+2023,Hungarian Grand Prix,STR,77.861,12,MEDIUM
+2023,Hungarian Grand Prix,TSU,78.919,5,HARD
+2023,Hungarian Grand Prix,VER,76.612,17,SOFT
+2023,Hungarian Grand Prix,ZHO,76.971,21,SOFT
+2023,Italian Grand Prix,ALB,80.76,20,SOFT
+2023,Italian Grand Prix,ALO,81.417,15,SOFT
+2023,Italian Grand Prix,BOT,81.94,13,MEDIUM
+2023,Italian Grand Prix,GAS,82.545,6,HARD
+2023,Italian Grand Prix,HAM,80.82,20,SOFT
+2023,Italian Grand Prix,HUL,81.776,12,MEDIUM
+2023,Italian Grand Prix,LAW,81.758,14,MEDIUM
+2023,Italian Grand Prix,LEC,80.361,20,SOFT
+2023,Italian Grand Prix,MAG,82.592,6,HARD
+2023,Italian Grand Prix,NOR,80.979,19,SOFT
+2023,Italian Grand Prix,OCO,82.548,7,HARD
+2023,Italian Grand Prix,PER,80.688,20,SOFT
+2023,Italian Grand Prix,PIA,80.785,23,SOFT
+2023,Italian Grand Prix,RUS,80.671,20,SOFT
+2023,Italian Grand Prix,SAI,80.294,19,SOFT
+2023,Italian Grand Prix,SAR,81.93,8,HARD
+2023,Italian Grand Prix,STR,82.86,6,HARD
+2023,Italian Grand Prix,TSU,81.594,14,MEDIUM
+2023,Italian Grand Prix,VER,80.307,20,SOFT
+2023,Italian Grand Prix,ZHO,82.39,2,HARD
+2023,Japanese Grand Prix,ALB,90.537,11,SOFT
+2023,Japanese Grand Prix,ALO,90.465,11,SOFT
+2023,Japanese Grand Prix,BOT,91.049,4,SOFT
+2023,Japanese Grand Prix,GAS,90.509,11,SOFT
+2023,Japanese Grand Prix,HAM,89.908,17,SOFT
+2023,Japanese Grand Prix,HUL,91.299,5,SOFT
+2023,Japanese Grand Prix,LAW,90.425,9,SOFT
+2023,Japanese Grand Prix,LEC,89.542,13,SOFT
+2023,Japanese Grand Prix,MAG,90.665,8,SOFT
+2023,Japanese Grand Prix,NOR,89.493,8,SOFT
+2023,Japanese Grand Prix,OCO,90.586,11,SOFT
+2023,Japanese Grand Prix,PER,89.65,17,SOFT
+2023,Japanese Grand Prix,PIA,89.458,10,SOFT
+2023,Japanese Grand Prix,RUS,90.219,14,SOFT
+2023,Japanese Grand Prix,SAI,89.85,13,SOFT
+2023,Japanese Grand Prix,STR,91.181,6,SOFT
+2023,Japanese Grand Prix,TSU,90.204,11,SOFT
+2023,Japanese Grand Prix,VER,88.877,11,SOFT
+2023,Japanese Grand Prix,ZHO,91.379,5,SOFT
+2023,Las Vegas Grand Prix,ALB,93.323,20,SOFT
+2023,Las Vegas Grand Prix,ALO,93.555,19,SOFT
+2023,Las Vegas Grand Prix,BOT,93.525,18,SOFT
+2023,Las Vegas Grand Prix,GAS,93.239,24,SOFT
+2023,Las Vegas Grand Prix,HAM,93.837,11,SOFT
+2023,Las Vegas Grand Prix,HUL,93.979,14,SOFT
+2023,Las Vegas Grand Prix,LEC,92.726,22,SOFT
+2023,Las Vegas Grand Prix,MAG,93.537,22,SOFT
+2023,Las Vegas Grand Prix,NOR,94.703,5,SOFT
+2023,Las Vegas Grand Prix,OCO,94.834,7,SOFT
+2023,Las Vegas Grand Prix,PER,93.855,13,SOFT
+2023,Las Vegas Grand Prix,PIA,94.85,6,SOFT
+2023,Las Vegas Grand Prix,RIC,94.308,17,SOFT
+2023,Las Vegas Grand Prix,RUS,93.112,21,SOFT
+2023,Las Vegas Grand Prix,SAI,92.77,22,SOFT
+2023,Las Vegas Grand Prix,SAR,93.513,22,SOFT
+2023,Las Vegas Grand Prix,STR,94.199,17,SOFT
+2023,Las Vegas Grand Prix,TSU,96.447,3,SOFT
+2023,Las Vegas Grand Prix,VER,93.104,16,SOFT
+2023,Las Vegas Grand Prix,ZHO,94.849,7,SOFT
+2023,Mexico City Grand Prix,ALB,78.302,11,SOFT
+2023,Mexico City Grand Prix,ALO,78.738,13,SOFT
+2023,Mexico City Grand Prix,BOT,78.016,10,SOFT
+2023,Mexico City Grand Prix,GAS,78.521,14,SOFT
+2023,Mexico City Grand Prix,HAM,77.454,17,SOFT
+2023,Mexico City Grand Prix,HUL,78.524,11,SOFT
+2023,Mexico City Grand Prix,LEC,77.166,13,SOFT
+2023,Mexico City Grand Prix,MAG,79.163,5,SOFT
+2023,Mexico City Grand Prix,NOR,81.554,4,SOFT
+2023,Mexico City Grand Prix,OCO,79.08,2,SOFT
+2023,Mexico City Grand Prix,PER,77.423,15,SOFT
+2023,Mexico City Grand Prix,PIA,77.623,17,SOFT
+2023,Mexico City Grand Prix,RIC,77.382,11,SOFT
+2023,Mexico City Grand Prix,RUS,77.673,12,SOFT
+2023,Mexico City Grand Prix,SAI,77.233,13,SOFT
+2023,Mexico City Grand Prix,SAR,79.965,5,SOFT
+2023,Mexico City Grand Prix,STR,79.227,5,SOFT
+2023,Mexico City Grand Prix,TSU,78.89,2,SOFT
+2023,Mexico City Grand Prix,VER,77.263,14,SOFT
+2023,Mexico City Grand Prix,ZHO,78.05,14,SOFT
+2023,Miami Grand Prix,ALB,87.795,11,SOFT
+2023,Miami Grand Prix,ALO,87.097,13,SOFT
+2023,Miami Grand Prix,BOT,87.564,12,SOFT
+2023,Miami Grand Prix,DEV,88.325,7,SOFT
+2023,Miami Grand Prix,GAS,87.612,14,SOFT
+2023,Miami Grand Prix,HAM,87.846,8,SOFT
+2023,Miami Grand Prix,HUL,87.903,12,SOFT
+2023,Miami Grand Prix,LEC,86.964,13,SOFT
+2023,Miami Grand Prix,MAG,87.673,14,SOFT
+2023,Miami Grand Prix,NOR,88.394,7,SOFT
+2023,Miami Grand Prix,OCO,87.444,14,SOFT
+2023,Miami Grand Prix,PER,86.841,18,SOFT
+2023,Miami Grand Prix,PIA,88.484,8,SOFT
+2023,Miami Grand Prix,RUS,87.743,14,SOFT
+2023,Miami Grand Prix,SAI,87.148,10,SOFT
+2023,Miami Grand Prix,SAR,88.577,9,SOFT
+2023,Miami Grand Prix,STR,88.476,7,SOFT
+2023,Miami Grand Prix,TSU,88.429,9,SOFT
+2023,Miami Grand Prix,VER,86.814,11,SOFT
+2023,Miami Grand Prix,ZHO,88.091,15,SOFT
+2023,Monaco Grand Prix,ALB,72.527,18,SOFT
+2023,Monaco Grand Prix,ALO,71.449,24,SOFT
+2023,Monaco Grand Prix,BOT,72.625,21,SOFT
+2023,Monaco Grand Prix,DEV,72.428,19,SOFT
+2023,Monaco Grand Prix,GAS,71.933,24,SOFT
+2023,Monaco Grand Prix,HAM,71.725,29,SOFT
+2023,Monaco Grand Prix,HUL,73.279,6,SOFT
+2023,Monaco Grand Prix,LEC,71.471,25,SOFT
+2023,Monaco Grand Prix,MAG,73.27,6,SOFT
+2023,Monaco Grand Prix,NOR,72.254,21,SOFT
+2023,Monaco Grand Prix,OCO,71.553,25,SOFT
+2023,Monaco Grand Prix,PER,73.85,2,SOFT
+2023,Monaco Grand Prix,PIA,72.395,14,SOFT
+2023,Monaco Grand Prix,RUS,71.964,25,SOFT
+2023,Monaco Grand Prix,SAI,71.63,27,SOFT
+2023,Monaco Grand Prix,SAR,73.113,12,SOFT
+2023,Monaco Grand Prix,STR,72.623,18,SOFT
+2023,Monaco Grand Prix,TSU,72.082,28,SOFT
+2023,Monaco Grand Prix,VER,71.365,29,SOFT
+2023,Monaco Grand Prix,ZHO,73.523,12,SOFT
+2023,Qatar Grand Prix,ALB,85.707,12,SOFT
+2023,Qatar Grand Prix,ALO,84.369,20,SOFT
+2023,Qatar Grand Prix,BOT,85.058,20,SOFT
+2023,Qatar Grand Prix,GAS,84.553,22,SOFT
+2023,Qatar Grand Prix,HAM,84.305,17,SOFT
+2023,Qatar Grand Prix,HUL,85.547,11,SOFT
+2023,Qatar Grand Prix,LAW,86.635,9,SOFT
+2023,Qatar Grand Prix,LEC,84.424,25,SOFT
+2023,Qatar Grand Prix,MAG,87.046,8,SOFT
+2023,Qatar Grand Prix,NOR,84.074,20,SOFT
+2023,Qatar Grand Prix,OCO,84.763,23,SOFT
+2023,Qatar Grand Prix,PER,85.275,15,SOFT
+2023,Qatar Grand Prix,PIA,84.228,22,SOFT
+2023,Qatar Grand Prix,RUS,84.219,20,SOFT
+2023,Qatar Grand Prix,SAI,85.328,17,SOFT
+2023,Qatar Grand Prix,SAR,86.21,7,SOFT
+2023,Qatar Grand Prix,STR,86.345,9,SOFT
+2023,Qatar Grand Prix,TSU,85.301,15,SOFT
+2023,Qatar Grand Prix,VER,83.778,16,SOFT
+2023,Qatar Grand Prix,ZHO,87.432,5,SOFT
+2023,Saudi Arabian Grand Prix,ALB,89.994,8,SOFT
+2023,Saudi Arabian Grand Prix,ALO,88.73,17,SOFT
+2023,Saudi Arabian Grand Prix,BOT,89.668,17,SOFT
+2023,Saudi Arabian Grand Prix,DEV,90.244,9,SOFT
+2023,Saudi Arabian Grand Prix,GAS,89.357,22,SOFT
+2023,Saudi Arabian Grand Prix,HAM,89.223,17,SOFT
+2023,Saudi Arabian Grand Prix,HUL,89.451,17,SOFT
+2023,Saudi Arabian Grand Prix,LEC,88.42,18,SOFT
+2023,Saudi Arabian Grand Prix,MAG,89.517,16,SOFT
+2023,Saudi Arabian Grand Prix,NOR,90.447,2,SOFT
+2023,Saudi Arabian Grand Prix,OCO,89.078,23,SOFT
+2023,Saudi Arabian Grand Prix,PER,88.265,15,SOFT
+2023,Saudi Arabian Grand Prix,PIA,89.243,22,SOFT
+2023,Saudi Arabian Grand Prix,RUS,88.857,20,SOFT
+2023,Saudi Arabian Grand Prix,SAI,88.931,23,SOFT
+2023,Saudi Arabian Grand Prix,SAR,89.721,2,SOFT
+2023,Saudi Arabian Grand Prix,STR,88.945,19,SOFT
+2023,Saudi Arabian Grand Prix,TSU,89.939,9,SOFT
+2023,Saudi Arabian Grand Prix,VER,88.761,2,SOFT
+2023,Saudi Arabian Grand Prix,ZHO,89.461,17,SOFT
+2023,Singapore Grand Prix,ALB,92.668,5,SOFT
+2023,Singapore Grand Prix,ALO,91.615,16,SOFT
+2023,Singapore Grand Prix,BOT,92.809,8,SOFT
+2023,Singapore Grand Prix,GAS,92.274,11,SOFT
+2023,Singapore Grand Prix,HAM,91.485,15,SOFT
+2023,Singapore Grand Prix,HUL,91.808,20,SOFT
+2023,Singapore Grand Prix,LAW,92.166,14,SOFT
+2023,Singapore Grand Prix,LEC,91.063,20,SOFT
+2023,Singapore Grand Prix,MAG,91.575,20,SOFT
+2023,Singapore Grand Prix,NOR,91.27,19,SOFT
+2023,Singapore Grand Prix,OCO,91.673,17,SOFT
+2023,Singapore Grand Prix,PER,92.099,7,SOFT
+2023,Singapore Grand Prix,PIA,92.902,2,SOFT
+2023,Singapore Grand Prix,RUS,91.056,16,SOFT
+2023,Singapore Grand Prix,SAI,90.984,19,SOFT
+2023,Singapore Grand Prix,SAR,93.252,8,SOFT
+2023,Singapore Grand Prix,STR,93.397,5,SOFT
+2023,Singapore Grand Prix,TSU,91.991,5,SOFT
+2023,Singapore Grand Prix,VER,92.173,13,SOFT
+2023,Singapore Grand Prix,ZHO,93.258,8,SOFT
+2023,Spanish Grand Prix,ALB,74.063,7,SOFT
+2023,Spanish Grand Prix,ALO,73.098,14,SOFT
+2023,Spanish Grand Prix,BOT,73.977,9,SOFT
+2023,Spanish Grand Prix,DEV,73.581,9,SOFT
+2023,Spanish Grand Prix,GAS,72.816,20,SOFT
+2023,Spanish Grand Prix,HAM,72.818,22,SOFT
+2023,Spanish Grand Prix,HUL,73.229,17,SOFT
+2023,Spanish Grand Prix,LEC,74.079,9,SOFT
+2023,Spanish Grand Prix,MAG,74.042,8,SOFT
+2023,Spanish Grand Prix,NOR,72.776,15,SOFT
+2023,Spanish Grand Prix,OCO,73.001,14,SOFT
+2023,Spanish Grand Prix,PER,73.334,16,SOFT
+2023,Spanish Grand Prix,PIA,73.059,13,SOFT
+2023,Spanish Grand Prix,RUS,73.326,10,SOFT
+2023,Spanish Grand Prix,SAI,72.734,21,SOFT
+2023,Spanish Grand Prix,SAR,74.699,5,SOFT
+2023,Spanish Grand Prix,STR,72.994,22,SOFT
+2023,Spanish Grand Prix,TSU,73.316,18,SOFT
+2023,Spanish Grand Prix,VER,72.272,17,SOFT
+2023,Spanish Grand Prix,ZHO,73.521,15,SOFT
+2023,São Paulo Grand Prix,ALB,70.621,8,SOFT
+2023,São Paulo Grand Prix,ALO,70.237,14,SOFT
+2023,São Paulo Grand Prix,BOT,70.955,8,SOFT
+2023,São Paulo Grand Prix,GAS,70.567,13,SOFT
+2023,São Paulo Grand Prix,HAM,70.266,17,SOFT
+2023,São Paulo Grand Prix,HUL,70.475,8,SOFT
+2023,São Paulo Grand Prix,LEC,70.303,14,SOFT
+2023,São Paulo Grand Prix,MAG,70.602,8,SOFT
+2023,São Paulo Grand Prix,NOR,70.021,9,SOFT
+2023,São Paulo Grand Prix,OCO,70.562,11,SOFT
+2023,São Paulo Grand Prix,PER,70.219,13,SOFT
+2023,São Paulo Grand Prix,PIA,70.33,8,SOFT
+2023,São Paulo Grand Prix,RIC,70.843,5,SOFT
+2023,São Paulo Grand Prix,RUS,70.316,14,SOFT
+2023,São Paulo Grand Prix,SAI,70.254,14,SOFT
+2023,São Paulo Grand Prix,SAR,71.035,8,SOFT
+2023,São Paulo Grand Prix,STR,70.375,12,SOFT
+2023,São Paulo Grand Prix,TSU,70.837,5,SOFT
+2023,São Paulo Grand Prix,VER,70.162,11,SOFT
+2023,São Paulo Grand Prix,ZHO,71.275,8,SOFT
+2023,United States Grand Prix,ALB,96.315,5,SOFT
+2023,United States Grand Prix,ALO,96.268,7,SOFT
+2023,United States Grand Prix,BOT,95.858,14,SOFT
+2023,United States Grand Prix,GAS,95.089,18,SOFT
+2023,United States Grand Prix,HAM,94.862,17,SOFT
+2023,United States Grand Prix,HUL,96.235,2,SOFT
+2023,United States Grand Prix,LEC,94.723,20,SOFT
+2023,United States Grand Prix,MAG,95.88,11,SOFT
+2023,United States Grand Prix,NOR,94.853,19,SOFT
+2023,United States Grand Prix,OCO,95.154,20,SOFT
+2023,United States Grand Prix,PER,95.173,16,SOFT
+2023,United States Grand Prix,PIA,95.467,19,SOFT
+2023,United States Grand Prix,RIC,95.974,8,SOFT
+2023,United States Grand Prix,RUS,95.079,17,SOFT
+2023,United States Grand Prix,SAI,94.945,17,SOFT
+2023,United States Grand Prix,SAR,96.827,7,SOFT
+2023,United States Grand Prix,STR,96.589,8,SOFT
+2023,United States Grand Prix,TSU,95.697,11,SOFT
+2023,United States Grand Prix,VER,94.718,17,SOFT
+2023,United States Grand Prix,ZHO,95.698,14,SOFT

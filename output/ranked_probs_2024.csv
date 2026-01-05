@@ -1,0 +1,339 @@
+season,race,driver,win_prob
+2024,Abu Dhabi Grand Prix,ALB,0.0033556288
+2024,Abu Dhabi Grand Prix,ALO,0.01468896
+2024,Abu Dhabi Grand Prix,BOT,0.01820396
+2024,Abu Dhabi Grand Prix,COL,0.003505674
+2024,Abu Dhabi Grand Prix,DOO,0.0025642125
+2024,Abu Dhabi Grand Prix,GAS,0.10237132
+2024,Abu Dhabi Grand Prix,HAM,0.0030837269
+2024,Abu Dhabi Grand Prix,HUL,0.13096173
+2024,Abu Dhabi Grand Prix,LAW,0.0043935515
+2024,Abu Dhabi Grand Prix,LEC,0.10522241
+2024,Abu Dhabi Grand Prix,MAG,0.0063852794
+2024,Abu Dhabi Grand Prix,NOR,0.0601901
+2024,Abu Dhabi Grand Prix,PIA,0.11856008
+2024,Abu Dhabi Grand Prix,RUS,0.017780654
+2024,Abu Dhabi Grand Prix,SAI,0.26973665
+2024,Abu Dhabi Grand Prix,STR,0.005043573
+2024,Abu Dhabi Grand Prix,TSU,0.004776413
+2024,Abu Dhabi Grand Prix,VER,0.12352875
+2024,Abu Dhabi Grand Prix,ZHO,0.005647302
+2024,Australian Grand Prix,ALO,0.013881382
+2024,Australian Grand Prix,BOT,0.0049146772
+2024,Australian Grand Prix,GAS,0.008217398
+2024,Australian Grand Prix,HAM,0.036349993
+2024,Australian Grand Prix,HUL,0.004429797
+2024,Australian Grand Prix,LEC,0.3008815
+2024,Australian Grand Prix,MAG,0.0045246514
+2024,Australian Grand Prix,NOR,0.21132624
+2024,Australian Grand Prix,OCO,0.00372508
+2024,Australian Grand Prix,PER,0.19164032
+2024,Australian Grand Prix,PIA,0.049650226
+2024,Australian Grand Prix,RIC,0.004583939
+2024,Australian Grand Prix,RUS,0.010288354
+2024,Australian Grand Prix,SAI,0.08664659
+2024,Australian Grand Prix,STR,0.017495751
+2024,Australian Grand Prix,TSU,0.023045681
+2024,Australian Grand Prix,VER,0.026002841
+2024,Australian Grand Prix,ZHO,0.0023956334
+2024,Azerbaijan Grand Prix,ALB,0.014275562
+2024,Azerbaijan Grand Prix,ALO,0.04282874
+2024,Azerbaijan Grand Prix,BEA,0.0068613915
+2024,Azerbaijan Grand Prix,BOT,0.014287572
+2024,Azerbaijan Grand Prix,COL,0.05144084
+2024,Azerbaijan Grand Prix,GAS,0.00902648
+2024,Azerbaijan Grand Prix,HAM,0.032162152
+2024,Azerbaijan Grand Prix,HUL,0.011769895
+2024,Azerbaijan Grand Prix,LEC,0.057729762
+2024,Azerbaijan Grand Prix,NOR,0.012660536
+2024,Azerbaijan Grand Prix,OCO,0.00483589
+2024,Azerbaijan Grand Prix,PER,0.17662688
+2024,Azerbaijan Grand Prix,PIA,0.12878975
+2024,Azerbaijan Grand Prix,RIC,0.0149497315
+2024,Azerbaijan Grand Prix,RUS,0.014800218
+2024,Azerbaijan Grand Prix,SAI,0.25176108
+2024,Azerbaijan Grand Prix,STR,0.020262323
+2024,Azerbaijan Grand Prix,TSU,0.028310444
+2024,Azerbaijan Grand Prix,VER,0.1021132
+2024,Azerbaijan Grand Prix,ZHO,0.004507479
+2024,Bahrain Grand Prix,ALB,0.0041026603
+2024,Bahrain Grand Prix,ALO,0.096952155
+2024,Bahrain Grand Prix,BOT,0.0022576083
+2024,Bahrain Grand Prix,GAS,0.0017016741
+2024,Bahrain Grand Prix,HAM,0.009524083
+2024,Bahrain Grand Prix,HUL,0.014337428
+2024,Bahrain Grand Prix,LEC,0.10859427
+2024,Bahrain Grand Prix,MAG,0.005065819
+2024,Bahrain Grand Prix,NOR,0.052497044
+2024,Bahrain Grand Prix,OCO,0.0026016503
+2024,Bahrain Grand Prix,PER,0.17700319
+2024,Bahrain Grand Prix,PIA,0.051020402
+2024,Bahrain Grand Prix,RIC,0.0027234606
+2024,Bahrain Grand Prix,RUS,0.13936825
+2024,Bahrain Grand Prix,SAI,0.029466562
+2024,Bahrain Grand Prix,SAR,0.0016552313
+2024,Bahrain Grand Prix,STR,0.005311184
+2024,Bahrain Grand Prix,TSU,0.003624784
+2024,Bahrain Grand Prix,VER,0.2903195
+2024,Bahrain Grand Prix,ZHO,0.0018730479
+2024,Belgian Grand Prix,ALB,0.074035615
+2024,Belgian Grand Prix,ALO,0.052276976
+2024,Belgian Grand Prix,BOT,0.01784329
+2024,Belgian Grand Prix,GAS,0.02443862
+2024,Belgian Grand Prix,HAM,0.05475973
+2024,Belgian Grand Prix,HUL,0.014415021
+2024,Belgian Grand Prix,LEC,0.09461474
+2024,Belgian Grand Prix,MAG,0.005312394
+2024,Belgian Grand Prix,NOR,0.0769725
+2024,Belgian Grand Prix,OCO,0.06881467
+2024,Belgian Grand Prix,PER,0.12959036
+2024,Belgian Grand Prix,PIA,0.06698666
+2024,Belgian Grand Prix,RIC,0.028950972
+2024,Belgian Grand Prix,RUS,0.01905116
+2024,Belgian Grand Prix,SAI,0.032462366
+2024,Belgian Grand Prix,SAR,0.010149911
+2024,Belgian Grand Prix,STR,0.01627293
+2024,Belgian Grand Prix,TSU,0.0080237
+2024,Belgian Grand Prix,VER,0.19964284
+2024,Belgian Grand Prix,ZHO,0.00538556
+2024,British Grand Prix,ALB,0.021677574
+2024,British Grand Prix,ALO,0.014838362
+2024,British Grand Prix,BOT,0.005544121
+2024,British Grand Prix,HAM,0.20188868
+2024,British Grand Prix,HUL,0.119820625
+2024,British Grand Prix,LEC,0.050628528
+2024,British Grand Prix,MAG,0.0055910475
+2024,British Grand Prix,NOR,0.13462263
+2024,British Grand Prix,OCO,0.0035816147
+2024,British Grand Prix,PER,0.004398118
+2024,British Grand Prix,PIA,0.042014793
+2024,British Grand Prix,RIC,0.009084317
+2024,British Grand Prix,RUS,0.14726396
+2024,British Grand Prix,SAI,0.069573805
+2024,British Grand Prix,SAR,0.0394874
+2024,British Grand Prix,STR,0.03749894
+2024,British Grand Prix,TSU,0.027830325
+2024,British Grand Prix,VER,0.048501074
+2024,British Grand Prix,ZHO,0.016154086
+2024,Canadian Grand Prix,ALB,0.03720502
+2024,Canadian Grand Prix,ALO,0.055886585
+2024,Canadian Grand Prix,BOT,0.02287676
+2024,Canadian Grand Prix,GAS,0.0063521527
+2024,Canadian Grand Prix,HAM,0.10900386
+2024,Canadian Grand Prix,HUL,0.0071349717
+2024,Canadian Grand Prix,LEC,0.015121563
+2024,Canadian Grand Prix,MAG,0.013258822
+2024,Canadian Grand Prix,NOR,0.18743491
+2024,Canadian Grand Prix,OCO,0.011387809
+2024,Canadian Grand Prix,PER,0.011795391
+2024,Canadian Grand Prix,PIA,0.10347327
+2024,Canadian Grand Prix,RIC,0.054117866
+2024,Canadian Grand Prix,RUS,0.18347421
+2024,Canadian Grand Prix,SAI,0.01382287
+2024,Canadian Grand Prix,SAR,0.029339628
+2024,Canadian Grand Prix,STR,0.0075118532
+2024,Canadian Grand Prix,TSU,0.029143557
+2024,Canadian Grand Prix,VER,0.095460504
+2024,Canadian Grand Prix,ZHO,0.0061984938
+2024,Dutch Grand Prix,ALB,0.019253157
+2024,Dutch Grand Prix,ALO,0.022372436
+2024,Dutch Grand Prix,BOT,0.0028358013
+2024,Dutch Grand Prix,GAS,0.0066754846
+2024,Dutch Grand Prix,HAM,0.049671777
+2024,Dutch Grand Prix,HUL,0.0053253947
+2024,Dutch Grand Prix,LEC,0.01915143
+2024,Dutch Grand Prix,MAG,0.0071524195
+2024,Dutch Grand Prix,NOR,0.2952235
+2024,Dutch Grand Prix,OCO,0.0024647224
+2024,Dutch Grand Prix,PER,0.05825004
+2024,Dutch Grand Prix,PIA,0.07211888
+2024,Dutch Grand Prix,RIC,0.002412654
+2024,Dutch Grand Prix,RUS,0.028282156
+2024,Dutch Grand Prix,SAI,0.021780731
+2024,Dutch Grand Prix,STR,0.027334163
+2024,Dutch Grand Prix,TSU,0.010562146
+2024,Dutch Grand Prix,VER,0.34670097
+2024,Dutch Grand Prix,ZHO,0.0024321377
+2024,Emilia Romagna Grand Prix,ALB,0.004362134
+2024,Emilia Romagna Grand Prix,ALO,0.0020198927
+2024,Emilia Romagna Grand Prix,BOT,0.0016511136
+2024,Emilia Romagna Grand Prix,GAS,0.004457924
+2024,Emilia Romagna Grand Prix,HAM,0.05030319
+2024,Emilia Romagna Grand Prix,HUL,0.013541772
+2024,Emilia Romagna Grand Prix,LEC,0.12542081
+2024,Emilia Romagna Grand Prix,MAG,0.0034092255
+2024,Emilia Romagna Grand Prix,NOR,0.03367117
+2024,Emilia Romagna Grand Prix,OCO,0.0059703873
+2024,Emilia Romagna Grand Prix,PER,0.01393472
+2024,Emilia Romagna Grand Prix,PIA,0.2731006
+2024,Emilia Romagna Grand Prix,RIC,0.01849679
+2024,Emilia Romagna Grand Prix,RUS,0.12285954
+2024,Emilia Romagna Grand Prix,SAI,0.12380168
+2024,Emilia Romagna Grand Prix,SAR,0.0054862997
+2024,Emilia Romagna Grand Prix,STR,0.005971862
+2024,Emilia Romagna Grand Prix,TSU,0.058139797
+2024,Emilia Romagna Grand Prix,VER,0.13057753
+2024,Emilia Romagna Grand Prix,ZHO,0.0028235377
+2024,Hungarian Grand Prix,ALB,0.020491127
+2024,Hungarian Grand Prix,ALO,0.02019511
+2024,Hungarian Grand Prix,BOT,0.02561681
+2024,Hungarian Grand Prix,GAS,0.0013453241
+2024,Hungarian Grand Prix,HAM,0.06411537
+2024,Hungarian Grand Prix,HUL,0.01217326
+2024,Hungarian Grand Prix,LEC,0.09151501
+2024,Hungarian Grand Prix,MAG,0.015232302
+2024,Hungarian Grand Prix,NOR,0.13060202
+2024,Hungarian Grand Prix,OCO,0.0019569776
+2024,Hungarian Grand Prix,PER,0.003152236
+2024,Hungarian Grand Prix,PIA,0.0995761
+2024,Hungarian Grand Prix,RIC,0.012660094
+2024,Hungarian Grand Prix,RUS,0.0032800224
+2024,Hungarian Grand Prix,SAI,0.06524833
+2024,Hungarian Grand Prix,SAR,0.017619008
+2024,Hungarian Grand Prix,STR,0.034373358
+2024,Hungarian Grand Prix,TSU,0.03177796
+2024,Hungarian Grand Prix,VER,0.3465151
+2024,Hungarian Grand Prix,ZHO,0.00255445
+2024,Italian Grand Prix,ALB,0.011038464
+2024,Italian Grand Prix,ALO,0.004656634
+2024,Italian Grand Prix,BOT,0.0017059782
+2024,Italian Grand Prix,COL,0.0025671544
+2024,Italian Grand Prix,GAS,0.0036292628
+2024,Italian Grand Prix,HAM,0.21637791
+2024,Italian Grand Prix,HUL,0.015276262
+2024,Italian Grand Prix,LEC,0.07751198
+2024,Italian Grand Prix,MAG,0.005614079
+2024,Italian Grand Prix,NOR,0.1286689
+2024,Italian Grand Prix,OCO,0.0022740897
+2024,Italian Grand Prix,PER,0.01791982
+2024,Italian Grand Prix,PIA,0.20459232
+2024,Italian Grand Prix,RIC,0.005073589
+2024,Italian Grand Prix,RUS,0.03015912
+2024,Italian Grand Prix,SAI,0.085061945
+2024,Italian Grand Prix,STR,0.0042590317
+2024,Italian Grand Prix,TSU,0.0041280347
+2024,Italian Grand Prix,VER,0.17680876
+2024,Italian Grand Prix,ZHO,0.0026766323
+2024,Japanese Grand Prix,BOT,0.0034742756
+2024,Japanese Grand Prix,HAM,0.23173848
+2024,Japanese Grand Prix,HUL,0.0052654534
+2024,Japanese Grand Prix,LEC,0.1698296
+2024,Japanese Grand Prix,NOR,0.1917063
+2024,Japanese Grand Prix,OCO,0.0049682227
+2024,Japanese Grand Prix,PIA,0.15113893
+2024,Japanese Grand Prix,SAI,0.23730099
+2024,Japanese Grand Prix,TSU,0.0031519346
+2024,Japanese Grand Prix,ZHO,0.0014258428
+2024,Las Vegas Grand Prix,ALB,0.006307059
+2024,Las Vegas Grand Prix,ALO,0.002941037
+2024,Las Vegas Grand Prix,BOT,0.0042795995
+2024,Las Vegas Grand Prix,COL,0.002591496
+2024,Las Vegas Grand Prix,GAS,0.09155629
+2024,Las Vegas Grand Prix,HAM,0.17954811
+2024,Las Vegas Grand Prix,HUL,0.041947853
+2024,Las Vegas Grand Prix,LAW,0.008508939
+2024,Las Vegas Grand Prix,LEC,0.12867606
+2024,Las Vegas Grand Prix,MAG,0.0056346925
+2024,Las Vegas Grand Prix,NOR,0.044565886
+2024,Las Vegas Grand Prix,OCO,0.007432596
+2024,Las Vegas Grand Prix,PER,0.008033476
+2024,Las Vegas Grand Prix,PIA,0.04666043
+2024,Las Vegas Grand Prix,RUS,0.173942
+2024,Las Vegas Grand Prix,SAI,0.14280249
+2024,Las Vegas Grand Prix,STR,0.0036161267
+2024,Las Vegas Grand Prix,TSU,0.028145986
+2024,Las Vegas Grand Prix,VER,0.06672088
+2024,Las Vegas Grand Prix,ZHO,0.006089006
+2024,Mexico City Grand Prix,ALO,0.007904492
+2024,Mexico City Grand Prix,BOT,0.0038387582
+2024,Mexico City Grand Prix,COL,0.0051958086
+2024,Mexico City Grand Prix,GAS,0.0090438025
+2024,Mexico City Grand Prix,HAM,0.054330073
+2024,Mexico City Grand Prix,HUL,0.014290908
+2024,Mexico City Grand Prix,LAW,0.0048521454
+2024,Mexico City Grand Prix,LEC,0.13284482
+2024,Mexico City Grand Prix,MAG,0.0081419535
+2024,Mexico City Grand Prix,NOR,0.16259539
+2024,Mexico City Grand Prix,OCO,0.0028629613
+2024,Mexico City Grand Prix,PER,0.0062119826
+2024,Mexico City Grand Prix,PIA,0.0033092983
+2024,Mexico City Grand Prix,RUS,0.23033616
+2024,Mexico City Grand Prix,SAI,0.1542532
+2024,Mexico City Grand Prix,STR,0.0064339116
+2024,Mexico City Grand Prix,VER,0.19003443
+2024,Mexico City Grand Prix,ZHO,0.0035197947
+2024,Monaco Grand Prix,ALB,0.027156472
+2024,Monaco Grand Prix,ALO,0.0048806933
+2024,Monaco Grand Prix,BOT,0.0016952348
+2024,Monaco Grand Prix,GAS,0.013726914
+2024,Monaco Grand Prix,HAM,0.08338438
+2024,Monaco Grand Prix,LEC,0.16855274
+2024,Monaco Grand Prix,NOR,0.1513709
+2024,Monaco Grand Prix,PIA,0.0923936
+2024,Monaco Grand Prix,RIC,0.002726376
+2024,Monaco Grand Prix,RUS,0.047353506
+2024,Monaco Grand Prix,SAI,0.19938397
+2024,Monaco Grand Prix,SAR,0.008224697
+2024,Monaco Grand Prix,STR,0.00540437
+2024,Monaco Grand Prix,TSU,0.030384304
+2024,Monaco Grand Prix,VER,0.16151947
+2024,Monaco Grand Prix,ZHO,0.0018423409
+2024,Saudi Arabian Grand Prix,ALB,0.015048037
+2024,Saudi Arabian Grand Prix,ALO,0.11811406
+2024,Saudi Arabian Grand Prix,BOT,0.010280113
+2024,Saudi Arabian Grand Prix,GAS,0.020605328
+2024,Saudi Arabian Grand Prix,HAM,0.054054998
+2024,Saudi Arabian Grand Prix,HUL,0.013464232
+2024,Saudi Arabian Grand Prix,LEC,0.09224342
+2024,Saudi Arabian Grand Prix,MAG,0.020649413
+2024,Saudi Arabian Grand Prix,NOR,0.036264263
+2024,Saudi Arabian Grand Prix,OCO,0.04244631
+2024,Saudi Arabian Grand Prix,PER,0.07433452
+2024,Saudi Arabian Grand Prix,PIA,0.032315217
+2024,Saudi Arabian Grand Prix,RIC,0.014740503
+2024,Saudi Arabian Grand Prix,RUS,0.0328214
+2024,Saudi Arabian Grand Prix,SAR,0.009155215
+2024,Saudi Arabian Grand Prix,STR,0.019155428
+2024,Saudi Arabian Grand Prix,TSU,0.034263648
+2024,Saudi Arabian Grand Prix,VER,0.35268858
+2024,Saudi Arabian Grand Prix,ZHO,0.007355401
+2024,Singapore Grand Prix,ALB,0.010804811
+2024,Singapore Grand Prix,ALO,0.02345912
+2024,Singapore Grand Prix,BOT,0.0042386884
+2024,Singapore Grand Prix,COL,0.0134002315
+2024,Singapore Grand Prix,GAS,0.005235109
+2024,Singapore Grand Prix,HAM,0.10261962
+2024,Singapore Grand Prix,HUL,0.035145808
+2024,Singapore Grand Prix,LEC,0.26054972
+2024,Singapore Grand Prix,MAG,0.0067477887
+2024,Singapore Grand Prix,NOR,0.17607222
+2024,Singapore Grand Prix,OCO,0.0057311123
+2024,Singapore Grand Prix,PER,0.006595223
+2024,Singapore Grand Prix,PIA,0.13981341
+2024,Singapore Grand Prix,RIC,0.006266259
+2024,Singapore Grand Prix,RUS,0.0068655787
+2024,Singapore Grand Prix,SAI,0.03871657
+2024,Singapore Grand Prix,STR,0.0046916925
+2024,Singapore Grand Prix,TSU,0.01388193
+2024,Singapore Grand Prix,VER,0.13622448
+2024,Singapore Grand Prix,ZHO,0.0029407206
+2024,Spanish Grand Prix,ALB,0.0016938657
+2024,Spanish Grand Prix,ALO,0.016849445
+2024,Spanish Grand Prix,BOT,0.0071265087
+2024,Spanish Grand Prix,GAS,0.04627086
+2024,Spanish Grand Prix,HAM,0.12137167
+2024,Spanish Grand Prix,HUL,0.0043652277
+2024,Spanish Grand Prix,LEC,0.07605271
+2024,Spanish Grand Prix,MAG,0.004701359
+2024,Spanish Grand Prix,NOR,0.07570072
+2024,Spanish Grand Prix,OCO,0.04845285
+2024,Spanish Grand Prix,PER,0.030613123
+2024,Spanish Grand Prix,PIA,0.021335535
+2024,Spanish Grand Prix,RIC,0.0013199081
+2024,Spanish Grand Prix,RUS,0.21391469
+2024,Spanish Grand Prix,SAI,0.17892079
+2024,Spanish Grand Prix,SAR,0.0026465706
+2024,Spanish Grand Prix,STR,0.0050975215
+2024,Spanish Grand Prix,TSU,0.003670566
+2024,Spanish Grand Prix,VER,0.136303
+2024,Spanish Grand Prix,ZHO,0.0035931454

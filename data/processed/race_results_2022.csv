@@ -1,0 +1,430 @@
+season,race,driver,position,win,dnf
+2022,Abu Dhabi Grand Prix,ALB,13,0,1
+2022,Abu Dhabi Grand Prix,ALO,10,0,0
+2022,Abu Dhabi Grand Prix,BOT,15,0,1
+2022,Abu Dhabi Grand Prix,GAS,14,0,1
+2022,Abu Dhabi Grand Prix,HAM,8,0,1
+2022,Abu Dhabi Grand Prix,LAT,19,0,1
+2022,Abu Dhabi Grand Prix,LEC,2,0,1
+2022,Abu Dhabi Grand Prix,MAG,17,0,1
+2022,Abu Dhabi Grand Prix,MSC,16,0,1
+2022,Abu Dhabi Grand Prix,NOR,6,0,1
+2022,Abu Dhabi Grand Prix,OCO,7,0,1
+2022,Abu Dhabi Grand Prix,PER,3,0,1
+2022,Abu Dhabi Grand Prix,RIC,9,0,1
+2022,Abu Dhabi Grand Prix,RUS,5,0,1
+2022,Abu Dhabi Grand Prix,SAI,4,0,1
+2022,Abu Dhabi Grand Prix,STR,8,0,1
+2022,Abu Dhabi Grand Prix,TSU,11,0,1
+2022,Abu Dhabi Grand Prix,VER,1,1,1
+2022,Abu Dhabi Grand Prix,VET,10,0,1
+2022,Abu Dhabi Grand Prix,ZHO,12,0,1
+2022,Australian Grand Prix,ALB,10,0,1
+2022,Australian Grand Prix,ALO,17,0,1
+2022,Australian Grand Prix,BOT,8,0,1
+2022,Australian Grand Prix,GAS,9,0,1
+2022,Australian Grand Prix,HAM,4,0,1
+2022,Australian Grand Prix,LAT,16,0,1
+2022,Australian Grand Prix,LEC,1,1,1
+2022,Australian Grand Prix,MAG,14,0,1
+2022,Australian Grand Prix,MSC,13,0,1
+2022,Australian Grand Prix,NOR,5,0,1
+2022,Australian Grand Prix,OCO,7,0,1
+2022,Australian Grand Prix,PER,2,0,1
+2022,Australian Grand Prix,RIC,6,0,1
+2022,Australian Grand Prix,RUS,3,0,1
+2022,Australian Grand Prix,SAI,14,0,0
+2022,Australian Grand Prix,STR,12,0,1
+2022,Australian Grand Prix,TSU,15,0,1
+2022,Australian Grand Prix,VER,2,0,1
+2022,Australian Grand Prix,VET,12,0,1
+2022,Australian Grand Prix,ZHO,11,0,1
+2022,Austrian Grand Prix,ALB,12,0,1
+2022,Austrian Grand Prix,ALO,10,0,1
+2022,Austrian Grand Prix,BOT,11,0,1
+2022,Austrian Grand Prix,GAS,15,0,1
+2022,Austrian Grand Prix,HAM,3,0,1
+2022,Austrian Grand Prix,LAT,19,0,1
+2022,Austrian Grand Prix,LEC,1,1,1
+2022,Austrian Grand Prix,MAG,8,0,1
+2022,Austrian Grand Prix,MSC,6,0,1
+2022,Austrian Grand Prix,NOR,7,0,1
+2022,Austrian Grand Prix,OCO,5,0,1
+2022,Austrian Grand Prix,PER,20,0,0
+2022,Austrian Grand Prix,RIC,9,0,1
+2022,Austrian Grand Prix,RUS,4,0,1
+2022,Austrian Grand Prix,SAI,3,0,1
+2022,Austrian Grand Prix,STR,13,0,1
+2022,Austrian Grand Prix,TSU,17,0,1
+2022,Austrian Grand Prix,VER,2,0,1
+2022,Austrian Grand Prix,VET,16,0,1
+2022,Austrian Grand Prix,ZHO,14,0,1
+2022,Azerbaijan Grand Prix,ALB,12,0,1
+2022,Azerbaijan Grand Prix,ALO,7,0,1
+2022,Azerbaijan Grand Prix,BOT,11,0,1
+2022,Azerbaijan Grand Prix,GAS,5,0,1
+2022,Azerbaijan Grand Prix,HAM,4,0,1
+2022,Azerbaijan Grand Prix,LAT,15,0,1
+2022,Azerbaijan Grand Prix,LEC,17,0,1
+2022,Azerbaijan Grand Prix,MAG,11,0,1
+2022,Azerbaijan Grand Prix,MSC,14,0,1
+2022,Azerbaijan Grand Prix,NOR,9,0,1
+2022,Azerbaijan Grand Prix,OCO,10,0,1
+2022,Azerbaijan Grand Prix,PER,2,0,1
+2022,Azerbaijan Grand Prix,RIC,8,0,1
+2022,Azerbaijan Grand Prix,RUS,3,0,1
+2022,Azerbaijan Grand Prix,SAI,4,0,1
+2022,Azerbaijan Grand Prix,STR,15,0,1
+2022,Azerbaijan Grand Prix,TSU,13,0,1
+2022,Azerbaijan Grand Prix,VER,1,1,1
+2022,Azerbaijan Grand Prix,VET,6,0,1
+2022,Azerbaijan Grand Prix,ZHO,16,0,1
+2022,Bahrain Grand Prix,ALB,13,0,1
+2022,Bahrain Grand Prix,ALO,9,0,1
+2022,Bahrain Grand Prix,BOT,6,0,1
+2022,Bahrain Grand Prix,GAS,8,0,1
+2022,Bahrain Grand Prix,HAM,3,0,1
+2022,Bahrain Grand Prix,HUL,17,0,1
+2022,Bahrain Grand Prix,LAT,16,0,1
+2022,Bahrain Grand Prix,LEC,1,1,1
+2022,Bahrain Grand Prix,MAG,5,0,1
+2022,Bahrain Grand Prix,MSC,11,0,1
+2022,Bahrain Grand Prix,NOR,15,0,1
+2022,Bahrain Grand Prix,OCO,7,0,1
+2022,Bahrain Grand Prix,PER,3,0,1
+2022,Bahrain Grand Prix,RIC,14,0,1
+2022,Bahrain Grand Prix,RUS,4,0,1
+2022,Bahrain Grand Prix,SAI,2,0,1
+2022,Bahrain Grand Prix,STR,12,0,1
+2022,Bahrain Grand Prix,TSU,8,0,1
+2022,Bahrain Grand Prix,VER,13,0,1
+2022,Bahrain Grand Prix,ZHO,10,0,1
+2022,Belgian Grand Prix,ALB,10,0,1
+2022,Belgian Grand Prix,ALO,6,0,1
+2022,Belgian Grand Prix,BOT,14,0,1
+2022,Belgian Grand Prix,GAS,9,0,1
+2022,Belgian Grand Prix,LAT,18,0,1
+2022,Belgian Grand Prix,LEC,5,0,1
+2022,Belgian Grand Prix,MAG,16,0,1
+2022,Belgian Grand Prix,MSC,17,0,1
+2022,Belgian Grand Prix,NOR,12,0,1
+2022,Belgian Grand Prix,OCO,7,0,1
+2022,Belgian Grand Prix,PER,2,0,1
+2022,Belgian Grand Prix,RIC,15,0,1
+2022,Belgian Grand Prix,RUS,4,0,1
+2022,Belgian Grand Prix,SAI,3,0,1
+2022,Belgian Grand Prix,STR,11,0,1
+2022,Belgian Grand Prix,TSU,13,0,1
+2022,Belgian Grand Prix,VER,1,1,1
+2022,Belgian Grand Prix,VET,8,0,1
+2022,Belgian Grand Prix,ZHO,14,0,1
+2022,British Grand Prix,ALO,5,0,1
+2022,British Grand Prix,BOT,11,0,1
+2022,British Grand Prix,GAS,14,0,1
+2022,British Grand Prix,HAM,3,0,1
+2022,British Grand Prix,LAT,12,0,1
+2022,British Grand Prix,LEC,4,0,1
+2022,British Grand Prix,MAG,10,0,1
+2022,British Grand Prix,MSC,8,0,1
+2022,British Grand Prix,NOR,6,0,1
+2022,British Grand Prix,OCO,8,0,1
+2022,British Grand Prix,PER,2,0,1
+2022,British Grand Prix,RIC,13,0,1
+2022,British Grand Prix,SAI,1,1,1
+2022,British Grand Prix,STR,11,0,1
+2022,British Grand Prix,TSU,14,0,1
+2022,British Grand Prix,VER,7,0,1
+2022,British Grand Prix,VET,9,0,1
+2022,Canadian Grand Prix,ALB,13,0,1
+2022,Canadian Grand Prix,ALO,7,0,1
+2022,Canadian Grand Prix,BOT,8,0,1
+2022,Canadian Grand Prix,GAS,14,0,1
+2022,Canadian Grand Prix,HAM,3,0,1
+2022,Canadian Grand Prix,LAT,16,0,1
+2022,Canadian Grand Prix,LEC,5,0,1
+2022,Canadian Grand Prix,MAG,17,0,1
+2022,Canadian Grand Prix,MSC,7,0,1
+2022,Canadian Grand Prix,NOR,15,0,1
+2022,Canadian Grand Prix,OCO,6,0,1
+2022,Canadian Grand Prix,PER,10,0,1
+2022,Canadian Grand Prix,RIC,11,0,1
+2022,Canadian Grand Prix,RUS,4,0,1
+2022,Canadian Grand Prix,SAI,2,0,1
+2022,Canadian Grand Prix,STR,10,0,1
+2022,Canadian Grand Prix,TSU,15,0,1
+2022,Canadian Grand Prix,VER,1,1,1
+2022,Canadian Grand Prix,VET,12,0,1
+2022,Canadian Grand Prix,ZHO,9,0,1
+2022,Dutch Grand Prix,ALB,12,0,1
+2022,Dutch Grand Prix,ALO,7,0,1
+2022,Dutch Grand Prix,BOT,13,0,1
+2022,Dutch Grand Prix,GAS,11,0,1
+2022,Dutch Grand Prix,HAM,4,0,1
+2022,Dutch Grand Prix,LAT,18,0,1
+2022,Dutch Grand Prix,LEC,3,0,1
+2022,Dutch Grand Prix,MAG,15,0,1
+2022,Dutch Grand Prix,MSC,14,0,1
+2022,Dutch Grand Prix,NOR,8,0,1
+2022,Dutch Grand Prix,OCO,9,0,1
+2022,Dutch Grand Prix,PER,6,0,1
+2022,Dutch Grand Prix,RIC,17,0,1
+2022,Dutch Grand Prix,RUS,2,0,1
+2022,Dutch Grand Prix,SAI,5,0,1
+2022,Dutch Grand Prix,STR,10,0,1
+2022,Dutch Grand Prix,TSU,20,0,1
+2022,Dutch Grand Prix,VER,1,1,1
+2022,Dutch Grand Prix,VET,13,0,1
+2022,Dutch Grand Prix,ZHO,16,0,1
+2022,Emilia Romagna Grand Prix,ALB,12,0,1
+2022,Emilia Romagna Grand Prix,ALO,19,0,1
+2022,Emilia Romagna Grand Prix,BOT,5,0,1
+2022,Emilia Romagna Grand Prix,GAS,13,0,1
+2022,Emilia Romagna Grand Prix,HAM,14,0,1
+2022,Emilia Romagna Grand Prix,LAT,16,0,1
+2022,Emilia Romagna Grand Prix,LEC,6,0,1
+2022,Emilia Romagna Grand Prix,MAG,9,0,1
+2022,Emilia Romagna Grand Prix,MSC,17,0,1
+2022,Emilia Romagna Grand Prix,NOR,3,0,1
+2022,Emilia Romagna Grand Prix,OCO,11,0,1
+2022,Emilia Romagna Grand Prix,PER,2,0,1
+2022,Emilia Romagna Grand Prix,RIC,18,0,1
+2022,Emilia Romagna Grand Prix,RUS,4,0,1
+2022,Emilia Romagna Grand Prix,STR,10,0,1
+2022,Emilia Romagna Grand Prix,TSU,7,0,1
+2022,Emilia Romagna Grand Prix,VER,1,1,1
+2022,Emilia Romagna Grand Prix,VET,8,0,1
+2022,Emilia Romagna Grand Prix,ZHO,15,0,1
+2022,French Grand Prix,ALB,13,0,1
+2022,French Grand Prix,ALO,6,0,1
+2022,French Grand Prix,BOT,14,0,1
+2022,French Grand Prix,GAS,12,0,1
+2022,French Grand Prix,HAM,2,0,1
+2022,French Grand Prix,LAT,16,0,1
+2022,French Grand Prix,LEC,1,1,1
+2022,French Grand Prix,MAG,14,0,1
+2022,French Grand Prix,MSC,15,0,1
+2022,French Grand Prix,NOR,7,0,1
+2022,French Grand Prix,OCO,8,0,1
+2022,French Grand Prix,PER,4,0,1
+2022,French Grand Prix,RIC,9,0,1
+2022,French Grand Prix,RUS,3,0,1
+2022,French Grand Prix,SAI,5,0,1
+2022,French Grand Prix,STR,10,0,1
+2022,French Grand Prix,TSU,18,0,1
+2022,French Grand Prix,VER,1,1,1
+2022,French Grand Prix,VET,11,0,1
+2022,French Grand Prix,ZHO,16,0,1
+2022,Hungarian Grand Prix,ALB,17,0,1
+2022,Hungarian Grand Prix,ALO,8,0,1
+2022,Hungarian Grand Prix,BOT,12,0,1
+2022,Hungarian Grand Prix,GAS,12,0,1
+2022,Hungarian Grand Prix,HAM,2,0,1
+2022,Hungarian Grand Prix,LAT,18,0,1
+2022,Hungarian Grand Prix,LEC,6,0,1
+2022,Hungarian Grand Prix,MAG,16,0,1
+2022,Hungarian Grand Prix,MSC,15,0,1
+2022,Hungarian Grand Prix,NOR,7,0,1
+2022,Hungarian Grand Prix,OCO,9,0,1
+2022,Hungarian Grand Prix,PER,5,0,1
+2022,Hungarian Grand Prix,RIC,13,0,1
+2022,Hungarian Grand Prix,RUS,3,0,1
+2022,Hungarian Grand Prix,SAI,4,0,1
+2022,Hungarian Grand Prix,STR,11,0,1
+2022,Hungarian Grand Prix,TSU,19,0,1
+2022,Hungarian Grand Prix,VER,1,1,1
+2022,Hungarian Grand Prix,VET,10,0,1
+2022,Hungarian Grand Prix,ZHO,14,0,1
+2022,Italian Grand Prix,ALO,8,0,1
+2022,Italian Grand Prix,BOT,13,0,1
+2022,Italian Grand Prix,DEV,9,0,1
+2022,Italian Grand Prix,GAS,8,0,1
+2022,Italian Grand Prix,HAM,5,0,1
+2022,Italian Grand Prix,LAT,15,0,1
+2022,Italian Grand Prix,LEC,2,0,1
+2022,Italian Grand Prix,MAG,16,0,1
+2022,Italian Grand Prix,MSC,12,0,1
+2022,Italian Grand Prix,NOR,7,0,1
+2022,Italian Grand Prix,OCO,11,0,1
+2022,Italian Grand Prix,PER,6,0,1
+2022,Italian Grand Prix,RIC,8,0,1
+2022,Italian Grand Prix,RUS,3,0,1
+2022,Italian Grand Prix,SAI,4,0,1
+2022,Italian Grand Prix,STR,17,0,1
+2022,Italian Grand Prix,TSU,14,0,1
+2022,Italian Grand Prix,VER,1,1,1
+2022,Italian Grand Prix,VET,13,0,1
+2022,Italian Grand Prix,ZHO,10,0,1
+2022,Japanese Grand Prix,ALO,6,0,1
+2022,Japanese Grand Prix,BOT,15,0,1
+2022,Japanese Grand Prix,GAS,17,0,1
+2022,Japanese Grand Prix,HAM,5,0,1
+2022,Japanese Grand Prix,LAT,9,0,1
+2022,Japanese Grand Prix,LEC,2,0,1
+2022,Japanese Grand Prix,MAG,14,0,1
+2022,Japanese Grand Prix,MSC,18,0,1
+2022,Japanese Grand Prix,NOR,10,0,1
+2022,Japanese Grand Prix,OCO,4,0,1
+2022,Japanese Grand Prix,PER,3,0,1
+2022,Japanese Grand Prix,RIC,11,0,1
+2022,Japanese Grand Prix,RUS,8,0,1
+2022,Japanese Grand Prix,STR,12,0,1
+2022,Japanese Grand Prix,TSU,13,0,1
+2022,Japanese Grand Prix,VER,1,1,1
+2022,Japanese Grand Prix,VET,7,0,1
+2022,Japanese Grand Prix,ZHO,16,0,1
+2022,Mexico City Grand Prix,ALB,12,0,1
+2022,Mexico City Grand Prix,ALO,9,0,1
+2022,Mexico City Grand Prix,BOT,10,0,1
+2022,Mexico City Grand Prix,GAS,11,0,1
+2022,Mexico City Grand Prix,HAM,2,0,1
+2022,Mexico City Grand Prix,LAT,18,0,1
+2022,Mexico City Grand Prix,LEC,6,0,1
+2022,Mexico City Grand Prix,MAG,17,0,1
+2022,Mexico City Grand Prix,MSC,16,0,1
+2022,Mexico City Grand Prix,NOR,9,0,1
+2022,Mexico City Grand Prix,OCO,8,0,1
+2022,Mexico City Grand Prix,PER,3,0,1
+2022,Mexico City Grand Prix,RIC,7,0,1
+2022,Mexico City Grand Prix,RUS,4,0,1
+2022,Mexico City Grand Prix,SAI,5,0,1
+2022,Mexico City Grand Prix,STR,15,0,1
+2022,Mexico City Grand Prix,TSU,16,0,0
+2022,Mexico City Grand Prix,VER,1,1,1
+2022,Mexico City Grand Prix,VET,14,0,1
+2022,Mexico City Grand Prix,ZHO,13,0,1
+2022,Miami Grand Prix,ALB,10,0,1
+2022,Miami Grand Prix,ALO,8,0,1
+2022,Miami Grand Prix,BOT,7,0,1
+2022,Miami Grand Prix,GAS,18,0,1
+2022,Miami Grand Prix,HAM,6,0,1
+2022,Miami Grand Prix,LAT,14,0,1
+2022,Miami Grand Prix,LEC,2,0,1
+2022,Miami Grand Prix,MAG,15,0,1
+2022,Miami Grand Prix,MSC,16,0,1
+2022,Miami Grand Prix,NOR,14,0,1
+2022,Miami Grand Prix,OCO,9,0,1
+2022,Miami Grand Prix,PER,4,0,1
+2022,Miami Grand Prix,RIC,11,0,1
+2022,Miami Grand Prix,RUS,5,0,1
+2022,Miami Grand Prix,SAI,3,0,1
+2022,Miami Grand Prix,STR,12,0,1
+2022,Miami Grand Prix,TSU,13,0,1
+2022,Miami Grand Prix,VER,1,1,1
+2022,Miami Grand Prix,VET,17,0,1
+2022,Miami Grand Prix,ZHO,20,0,0
+2022,Monaco Grand Prix,ALB,18,0,1
+2022,Monaco Grand Prix,ALO,7,0,1
+2022,Monaco Grand Prix,BOT,10,0,1
+2022,Monaco Grand Prix,GAS,12,0,1
+2022,Monaco Grand Prix,HAM,8,0,1
+2022,Monaco Grand Prix,LAT,15,0,1
+2022,Monaco Grand Prix,LEC,4,0,1
+2022,Monaco Grand Prix,MAG,10,0,1
+2022,Monaco Grand Prix,MSC,17,0,1
+2022,Monaco Grand Prix,NOR,6,0,1
+2022,Monaco Grand Prix,OCO,9,0,1
+2022,Monaco Grand Prix,PER,1,1,1
+2022,Monaco Grand Prix,RIC,13,0,1
+2022,Monaco Grand Prix,RUS,5,0,1
+2022,Monaco Grand Prix,SAI,2,0,1
+2022,Monaco Grand Prix,STR,14,0,1
+2022,Monaco Grand Prix,TSU,17,0,1
+2022,Monaco Grand Prix,VER,3,0,1
+2022,Monaco Grand Prix,VET,11,0,1
+2022,Monaco Grand Prix,ZHO,16,0,1
+2022,Saudi Arabian Grand Prix,ALB,12,0,1
+2022,Saudi Arabian Grand Prix,ALO,7,0,1
+2022,Saudi Arabian Grand Prix,BOT,15,0,1
+2022,Saudi Arabian Grand Prix,GAS,8,0,1
+2022,Saudi Arabian Grand Prix,HAM,10,0,1
+2022,Saudi Arabian Grand Prix,HUL,12,0,1
+2022,Saudi Arabian Grand Prix,LAT,15,0,0
+2022,Saudi Arabian Grand Prix,LEC,2,0,1
+2022,Saudi Arabian Grand Prix,MAG,9,0,1
+2022,Saudi Arabian Grand Prix,NOR,7,0,1
+2022,Saudi Arabian Grand Prix,OCO,6,0,1
+2022,Saudi Arabian Grand Prix,PER,4,0,1
+2022,Saudi Arabian Grand Prix,RIC,16,0,1
+2022,Saudi Arabian Grand Prix,RUS,5,0,1
+2022,Saudi Arabian Grand Prix,SAI,3,0,1
+2022,Saudi Arabian Grand Prix,STR,13,0,1
+2022,Saudi Arabian Grand Prix,VER,1,1,1
+2022,Saudi Arabian Grand Prix,ZHO,11,0,1
+2022,Singapore Grand Prix,ALB,17,0,1
+2022,Singapore Grand Prix,ALO,6,0,1
+2022,Singapore Grand Prix,BOT,11,0,1
+2022,Singapore Grand Prix,GAS,10,0,1
+2022,Singapore Grand Prix,HAM,9,0,1
+2022,Singapore Grand Prix,LAT,19,0,1
+2022,Singapore Grand Prix,LEC,2,0,1
+2022,Singapore Grand Prix,MAG,12,0,1
+2022,Singapore Grand Prix,MSC,13,0,1
+2022,Singapore Grand Prix,NOR,4,0,1
+2022,Singapore Grand Prix,OCO,13,0,1
+2022,Singapore Grand Prix,PER,1,1,1
+2022,Singapore Grand Prix,RIC,5,0,1
+2022,Singapore Grand Prix,RUS,14,0,1
+2022,Singapore Grand Prix,SAI,3,0,1
+2022,Singapore Grand Prix,STR,6,0,1
+2022,Singapore Grand Prix,TSU,12,0,1
+2022,Singapore Grand Prix,VER,7,0,1
+2022,Singapore Grand Prix,VET,8,0,1
+2022,Singapore Grand Prix,ZHO,19,0,1
+2022,Spanish Grand Prix,ALB,18,0,1
+2022,Spanish Grand Prix,ALO,9,0,1
+2022,Spanish Grand Prix,BOT,6,0,1
+2022,Spanish Grand Prix,GAS,13,0,1
+2022,Spanish Grand Prix,HAM,5,0,1
+2022,Spanish Grand Prix,LAT,16,0,1
+2022,Spanish Grand Prix,LEC,4,0,1
+2022,Spanish Grand Prix,MAG,17,0,1
+2022,Spanish Grand Prix,MSC,14,0,1
+2022,Spanish Grand Prix,NOR,8,0,1
+2022,Spanish Grand Prix,OCO,7,0,1
+2022,Spanish Grand Prix,PER,2,0,1
+2022,Spanish Grand Prix,RIC,12,0,1
+2022,Spanish Grand Prix,RUS,3,0,1
+2022,Spanish Grand Prix,SAI,4,0,1
+2022,Spanish Grand Prix,STR,15,0,1
+2022,Spanish Grand Prix,TSU,10,0,1
+2022,Spanish Grand Prix,VER,1,1,1
+2022,Spanish Grand Prix,VET,11,0,1
+2022,Spanish Grand Prix,ZHO,15,0,1
+2022,São Paulo Grand Prix,ALB,15,0,1
+2022,São Paulo Grand Prix,ALO,5,0,1
+2022,São Paulo Grand Prix,BOT,9,0,1
+2022,São Paulo Grand Prix,GAS,12,0,1
+2022,São Paulo Grand Prix,HAM,2,0,1
+2022,São Paulo Grand Prix,LAT,16,0,1
+2022,São Paulo Grand Prix,LEC,4,0,1
+2022,São Paulo Grand Prix,MSC,14,0,1
+2022,São Paulo Grand Prix,NOR,12,0,1
+2022,São Paulo Grand Prix,OCO,8,0,1
+2022,São Paulo Grand Prix,PER,7,0,1
+2022,São Paulo Grand Prix,RUS,1,1,1
+2022,São Paulo Grand Prix,SAI,3,0,1
+2022,São Paulo Grand Prix,STR,10,0,1
+2022,São Paulo Grand Prix,TSU,17,0,1
+2022,São Paulo Grand Prix,VER,6,0,1
+2022,São Paulo Grand Prix,VET,11,0,1
+2022,São Paulo Grand Prix,ZHO,13,0,1
+2022,United States Grand Prix,ALB,13,0,1
+2022,United States Grand Prix,ALO,7,0,1
+2022,United States Grand Prix,BOT,13,0,1
+2022,United States Grand Prix,GAS,11,0,1
+2022,United States Grand Prix,HAM,2,0,1
+2022,United States Grand Prix,LAT,17,0,1
+2022,United States Grand Prix,LEC,3,0,1
+2022,United States Grand Prix,MAG,9,0,1
+2022,United States Grand Prix,MSC,15,0,1
+2022,United States Grand Prix,NOR,6,0,1
+2022,United States Grand Prix,OCO,12,0,1
+2022,United States Grand Prix,PER,4,0,1
+2022,United States Grand Prix,RIC,16,0,1
+2022,United States Grand Prix,RUS,5,0,1
+2022,United States Grand Prix,SAI,19,0,1
+2022,United States Grand Prix,STR,7,0,1
+2022,United States Grand Prix,TSU,10,0,1
+2022,United States Grand Prix,VER,1,1,1
+2022,United States Grand Prix,VET,8,0,1
+2022,United States Grand Prix,ZHO,14,0,1

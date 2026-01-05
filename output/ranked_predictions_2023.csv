@@ -1,0 +1,313 @@
+season,race,driver,win_prob,position
+2023,Abu Dhabi Grand Prix,ALB,0.0046976777,14
+2023,Abu Dhabi Grand Prix,ALO,0.029573377,7
+2023,Abu Dhabi Grand Prix,BOT,0.0063895094,19
+2023,Abu Dhabi Grand Prix,GAS,0.050948277,13
+2023,Abu Dhabi Grand Prix,HAM,0.006096383,9
+2023,Abu Dhabi Grand Prix,HUL,0.031584445,15
+2023,Abu Dhabi Grand Prix,LEC,0.087109335,3
+2023,Abu Dhabi Grand Prix,MAG,0.009092826,20
+2023,Abu Dhabi Grand Prix,NOR,0.22468339,5
+2023,Abu Dhabi Grand Prix,OCO,0.00498041,12
+2023,Abu Dhabi Grand Prix,PER,0.13292496,2
+2023,Abu Dhabi Grand Prix,PIA,0.17793818,6
+2023,Abu Dhabi Grand Prix,RIC,0.01232184,11
+2023,Abu Dhabi Grand Prix,RUS,0.14495188,4
+2023,Abu Dhabi Grand Prix,SAI,0.008662367,15
+2023,Abu Dhabi Grand Prix,SAR,0.007639359,16
+2023,Abu Dhabi Grand Prix,STR,0.0052021425,10
+2023,Abu Dhabi Grand Prix,TSU,0.01742799,8
+2023,Abu Dhabi Grand Prix,VER,0.035339136,1
+2023,Abu Dhabi Grand Prix,ZHO,0.0024364067,17
+2023,Australian Grand Prix,ALB,0.034385324,6
+2023,Australian Grand Prix,ALO,0.08959999,3
+2023,Australian Grand Prix,BOT,0.012450005,12
+2023,Australian Grand Prix,DEV,0.024917988,15
+2023,Australian Grand Prix,GAS,0.06216983,5
+2023,Australian Grand Prix,HAM,0.12081799,2
+2023,Australian Grand Prix,HUL,0.052345395,8
+2023,Australian Grand Prix,MAG,0.033561785,12
+2023,Australian Grand Prix,NOR,0.050403398,7
+2023,Australian Grand Prix,OCO,0.0385932,10
+2023,Australian Grand Prix,PER,0.0039331554,6
+2023,Australian Grand Prix,PIA,0.009186437,9
+2023,Australian Grand Prix,RUS,0.027414458,14
+2023,Australian Grand Prix,SAI,0.031459287,4
+2023,Australian Grand Prix,STR,0.09182761,5
+2023,Australian Grand Prix,TSU,0.038831733,11
+2023,Australian Grand Prix,VER,0.26403064,1
+2023,Australian Grand Prix,ZHO,0.014071776,10
+2023,Bahrain Grand Prix,ALB,0.005670802,10
+2023,Bahrain Grand Prix,ALO,0.10385994,3
+2023,Bahrain Grand Prix,BOT,0.008528723,8
+2023,Bahrain Grand Prix,DEV,0.00280223,14
+2023,Bahrain Grand Prix,GAS,0.00447652,9
+2023,Bahrain Grand Prix,HAM,0.08768218,5
+2023,Bahrain Grand Prix,HUL,0.030087672,15
+2023,Bahrain Grand Prix,LEC,0.25838035,3
+2023,Bahrain Grand Prix,MAG,0.0034070818,13
+2023,Bahrain Grand Prix,NOR,0.013838637,17
+2023,Bahrain Grand Prix,OCO,0.032350324,17
+2023,Bahrain Grand Prix,PER,0.106164224,2
+2023,Bahrain Grand Prix,PIA,0.0030708704,16
+2023,Bahrain Grand Prix,RUS,0.14768042,7
+2023,Bahrain Grand Prix,SAI,0.120754324,4
+2023,Bahrain Grand Prix,SAR,0.0058283606,12
+2023,Bahrain Grand Prix,STR,0.02349893,6
+2023,Bahrain Grand Prix,TSU,0.0049857046,11
+2023,Bahrain Grand Prix,VER,0.027956514,1
+2023,Bahrain Grand Prix,ZHO,0.0089761745,16
+2023,British Grand Prix,ALB,0.035770062,8
+2023,British Grand Prix,ALO,0.020954076,7
+2023,British Grand Prix,BOT,0.0047550215,13
+2023,British Grand Prix,DEV,0.005530858,17
+2023,British Grand Prix,GAS,0.026345966,18
+2023,British Grand Prix,HAM,0.10399333,3
+2023,British Grand Prix,HUL,0.003974955,14
+2023,British Grand Prix,MAG,0.0012374752,14
+2023,British Grand Prix,NOR,0.23712504,2
+2023,British Grand Prix,OCO,0.0030570608,12
+2023,British Grand Prix,PER,0.00416829,6
+2023,British Grand Prix,PIA,0.117948726,4
+2023,British Grand Prix,RUS,0.053299185,5
+2023,British Grand Prix,SAI,0.26564845,10
+2023,British Grand Prix,SAR,0.001619271,12
+2023,British Grand Prix,STR,0.0014319333,11
+2023,British Grand Prix,TSU,0.003856259,16
+2023,British Grand Prix,VER,0.10308784,1
+2023,British Grand Prix,ZHO,0.0061961743,15
+2023,Canadian Grand Prix,ALB,0.020796621,7
+2023,Canadian Grand Prix,ALO,0.06871153,2
+2023,Canadian Grand Prix,BOT,0.011705269,11
+2023,Canadian Grand Prix,DEV,0.0046729227,18
+2023,Canadian Grand Prix,GAS,0.010770619,13
+2023,Canadian Grand Prix,HAM,0.034877464,3
+2023,Canadian Grand Prix,HUL,0.09004163,15
+2023,Canadian Grand Prix,LEC,0.028068477,4
+2023,Canadian Grand Prix,MAG,0.003672954,17
+2023,Canadian Grand Prix,NOR,0.2117091,9
+2023,Canadian Grand Prix,OCO,0.02878238,8
+2023,Canadian Grand Prix,PER,0.018491164,6
+2023,Canadian Grand Prix,PIA,0.15866156,12
+2023,Canadian Grand Prix,RUS,0.03608584,8
+2023,Canadian Grand Prix,SAI,0.059324753,5
+2023,Canadian Grand Prix,SAR,0.00653911,18
+2023,Canadian Grand Prix,STR,0.004078498,10
+2023,Canadian Grand Prix,TSU,0.0059540435,14
+2023,Canadian Grand Prix,VER,0.19187163,1
+2023,Canadian Grand Prix,ZHO,0.0051844246,16
+2023,Dutch Grand Prix,ALB,0.079935975,8
+2023,Dutch Grand Prix,ALO,0.12830709,2
+2023,Dutch Grand Prix,BOT,0.00302215,16
+2023,Dutch Grand Prix,GAS,0.0023317365,4
+2023,Dutch Grand Prix,HAM,0.0067595774,6
+2023,Dutch Grand Prix,HUL,0.003641253,12
+2023,Dutch Grand Prix,LEC,0.02297841,17
+2023,Dutch Grand Prix,MAG,0.0027802107,15
+2023,Dutch Grand Prix,NOR,0.031936754,7
+2023,Dutch Grand Prix,OCO,0.0031052444,10
+2023,Dutch Grand Prix,PER,0.12523934,3
+2023,Dutch Grand Prix,PIA,0.20575632,9
+2023,Dutch Grand Prix,RUS,0.030488024,17
+2023,Dutch Grand Prix,SAI,0.16844021,5
+2023,Dutch Grand Prix,SAR,0.015878024,20
+2023,Dutch Grand Prix,STR,0.0032277072,11
+2023,Dutch Grand Prix,TSU,0.0036295627,13
+2023,Dutch Grand Prix,VER,0.15746765,1
+2023,Dutch Grand Prix,ZHO,0.005074719,13
+2023,Hungarian Grand Prix,ALB,0.0026990154,11
+2023,Hungarian Grand Prix,ALO,0.04149177,9
+2023,Hungarian Grand Prix,BOT,0.042752195,12
+2023,Hungarian Grand Prix,GAS,0.001898168,20
+2023,Hungarian Grand Prix,HAM,0.026288303,4
+2023,Hungarian Grand Prix,HUL,0.02504939,14
+2023,Hungarian Grand Prix,LEC,0.08244993,6
+2023,Hungarian Grand Prix,MAG,0.0030951255,17
+2023,Hungarian Grand Prix,NOR,0.14153609,2
+2023,Hungarian Grand Prix,OCO,0.0057621747,19
+2023,Hungarian Grand Prix,PER,0.08571744,3
+2023,Hungarian Grand Prix,PIA,0.16655082,5
+2023,Hungarian Grand Prix,RIC,0.0065325736,13
+2023,Hungarian Grand Prix,RUS,0.0029656051,7
+2023,Hungarian Grand Prix,SAI,0.008322079,8
+2023,Hungarian Grand Prix,SAR,0.0019528151,17
+2023,Hungarian Grand Prix,STR,0.005055604,10
+2023,Hungarian Grand Prix,TSU,0.0040177605,15
+2023,Hungarian Grand Prix,VER,0.27920243,1
+2023,Hungarian Grand Prix,ZHO,0.06666068,16
+2023,Italian Grand Prix,ALB,0.08398298,7
+2023,Italian Grand Prix,ALO,0.017290147,9
+2023,Italian Grand Prix,BOT,0.0041895737,10
+2023,Italian Grand Prix,GAS,0.0022215387,15
+2023,Italian Grand Prix,HAM,0.0537376,6
+2023,Italian Grand Prix,HUL,0.0036570525,17
+2023,Italian Grand Prix,LAW,0.0028735376,12
+2023,Italian Grand Prix,LEC,0.10339136,4
+2023,Italian Grand Prix,MAG,0.0032337517,18
+2023,Italian Grand Prix,NOR,0.043225188,8
+2023,Italian Grand Prix,OCO,0.0036779048,18
+2023,Italian Grand Prix,PER,0.20947002,2
+2023,Italian Grand Prix,PIA,0.0525467,11
+2023,Italian Grand Prix,RUS,0.07402381,5
+2023,Italian Grand Prix,SAI,0.1699573,3
+2023,Italian Grand Prix,SAR,0.0041545676,13
+2023,Italian Grand Prix,STR,0.0047088233,16
+2023,Italian Grand Prix,VER,0.16132095,1
+2023,Italian Grand Prix,ZHO,0.0023372034,14
+2023,Japanese Grand Prix,ALB,0.010218025,16
+2023,Japanese Grand Prix,ALO,0.0055483906,8
+2023,Japanese Grand Prix,BOT,0.006811788,20
+2023,Japanese Grand Prix,GAS,0.007998629,10
+2023,Japanese Grand Prix,HAM,0.021897111,5
+2023,Japanese Grand Prix,HUL,0.009996027,14
+2023,Japanese Grand Prix,LAW,0.010290338,11
+2023,Japanese Grand Prix,LEC,0.27489352,4
+2023,Japanese Grand Prix,MAG,0.012420766,15
+2023,Japanese Grand Prix,NOR,0.1520601,2
+2023,Japanese Grand Prix,OCO,0.013152257,9
+2023,Japanese Grand Prix,PER,0.14401026,19
+2023,Japanese Grand Prix,PIA,0.12287599,3
+2023,Japanese Grand Prix,RUS,0.030601153,7
+2023,Japanese Grand Prix,SAI,0.04103808,6
+2023,Japanese Grand Prix,STR,0.0068278266,12
+2023,Japanese Grand Prix,TSU,0.024497764,12
+2023,Japanese Grand Prix,VER,0.0990167,1
+2023,Japanese Grand Prix,ZHO,0.005845262,13
+2023,Las Vegas Grand Prix,ALB,0.038234647,12
+2023,Las Vegas Grand Prix,ALO,0.021995872,9
+2023,Las Vegas Grand Prix,BOT,0.01916225,17
+2023,Las Vegas Grand Prix,GAS,0.032623235,11
+2023,Las Vegas Grand Prix,HAM,0.014103588,8
+2023,Las Vegas Grand Prix,HUL,0.0106174955,15
+2023,Las Vegas Grand Prix,LEC,0.20757094,2
+2023,Las Vegas Grand Prix,MAG,0.020756193,13
+2023,Las Vegas Grand Prix,NOR,0.007011792,13
+2023,Las Vegas Grand Prix,OCO,0.008586827,5
+2023,Las Vegas Grand Prix,PER,0.012306071,3
+2023,Las Vegas Grand Prix,PIA,0.003939911,10
+2023,Las Vegas Grand Prix,RIC,0.0036742587,14
+2023,Las Vegas Grand Prix,RUS,0.085365266,4
+2023,Las Vegas Grand Prix,SAI,0.20013598,7
+2023,Las Vegas Grand Prix,SAR,0.026076054,16
+2023,Las Vegas Grand Prix,STR,0.003943762,6
+2023,Las Vegas Grand Prix,TSU,0.0035813986,17
+2023,Las Vegas Grand Prix,VER,0.2722086,1
+2023,Las Vegas Grand Prix,ZHO,0.0081059225,15
+2023,Mexico City Grand Prix,ALB,0.00804886,9
+2023,Mexico City Grand Prix,ALO,0.0023981119,18
+2023,Mexico City Grand Prix,BOT,0.019501433,15
+2023,Mexico City Grand Prix,GAS,0.0066035134,11
+2023,Mexico City Grand Prix,HAM,0.061322324,2
+2023,Mexico City Grand Prix,HUL,0.0057532378,14
+2023,Mexico City Grand Prix,LEC,0.14458999,3
+2023,Mexico City Grand Prix,MAG,0.002442589,16
+2023,Mexico City Grand Prix,NOR,0.0063058734,5
+2023,Mexico City Grand Prix,OCO,0.002579664,10
+2023,Mexico City Grand Prix,PER,0.102310024,20
+2023,Mexico City Grand Prix,PIA,0.064640686,8
+2023,Mexico City Grand Prix,RIC,0.18987796,7
+2023,Mexico City Grand Prix,RUS,0.022348199,6
+2023,Mexico City Grand Prix,SAI,0.27136397,4
+2023,Mexico City Grand Prix,SAR,0.0014077373,12
+2023,Mexico City Grand Prix,STR,0.0025197584,17
+2023,Mexico City Grand Prix,TSU,0.007087997,13
+2023,Mexico City Grand Prix,VER,0.06309773,1
+2023,Mexico City Grand Prix,ZHO,0.015800355,16
+2023,Miami Grand Prix,ALB,0.01801525,14
+2023,Miami Grand Prix,ALO,0.16224782,3
+2023,Miami Grand Prix,BOT,0.018605575,13
+2023,Miami Grand Prix,DEV,0.0050033024,18
+2023,Miami Grand Prix,GAS,0.007371447,8
+2023,Miami Grand Prix,HAM,0.0061122295,6
+2023,Miami Grand Prix,HUL,0.0054701124,15
+2023,Miami Grand Prix,LEC,0.12614818,7
+2023,Miami Grand Prix,MAG,0.014894833,10
+2023,Miami Grand Prix,NOR,0.007618358,17
+2023,Miami Grand Prix,OCO,0.03591396,9
+2023,Miami Grand Prix,PER,0.061880264,2
+2023,Miami Grand Prix,PIA,0.0032040547,19
+2023,Miami Grand Prix,RUS,0.005132179,4
+2023,Miami Grand Prix,SAI,0.12637076,5
+2023,Miami Grand Prix,SAR,0.004259482,20
+2023,Miami Grand Prix,STR,0.004384434,12
+2023,Miami Grand Prix,TSU,0.004720915,11
+2023,Miami Grand Prix,VER,0.37872642,1
+2023,Miami Grand Prix,ZHO,0.003920409,16
+2023,Monaco Grand Prix,ALB,0.0028763697,14
+2023,Monaco Grand Prix,ALO,0.166288,2
+2023,Monaco Grand Prix,BOT,0.004240016,11
+2023,Monaco Grand Prix,DEV,0.0130776055,12
+2023,Monaco Grand Prix,GAS,0.042485427,7
+2023,Monaco Grand Prix,HAM,0.082880855,4
+2023,Monaco Grand Prix,HUL,0.003792567,16
+2023,Monaco Grand Prix,LEC,0.13652274,6
+2023,Monaco Grand Prix,MAG,0.004295472,19
+2023,Monaco Grand Prix,NOR,0.010981552,9
+2023,Monaco Grand Prix,OCO,0.21594954,3
+2023,Monaco Grand Prix,PER,0.0016238738,17
+2023,Monaco Grand Prix,PIA,0.008621977,10
+2023,Monaco Grand Prix,RUS,0.021369621,5
+2023,Monaco Grand Prix,SAI,0.099517845,8
+2023,Monaco Grand Prix,SAR,0.0027428728,18
+2023,Monaco Grand Prix,STR,0.0029624272,16
+2023,Monaco Grand Prix,TSU,0.029856749,15
+2023,Monaco Grand Prix,VER,0.14633746,1
+2023,Monaco Grand Prix,ZHO,0.003577026,13
+2023,Saudi Arabian Grand Prix,ALB,0.0028072686,19
+2023,Saudi Arabian Grand Prix,ALO,0.20307934,3
+2023,Saudi Arabian Grand Prix,BOT,0.0021499898,18
+2023,Saudi Arabian Grand Prix,DEV,0.0034576394,14
+2023,Saudi Arabian Grand Prix,GAS,0.012617088,9
+2023,Saudi Arabian Grand Prix,HAM,0.010968264,5
+2023,Saudi Arabian Grand Prix,HUL,0.0045663672,12
+2023,Saudi Arabian Grand Prix,LEC,0.18973634,7
+2023,Saudi Arabian Grand Prix,MAG,0.0074520605,10
+2023,Saudi Arabian Grand Prix,NOR,0.003070744,17
+2023,Saudi Arabian Grand Prix,OCO,0.02718766,8
+2023,Saudi Arabian Grand Prix,PER,0.31036302,1
+2023,Saudi Arabian Grand Prix,PIA,0.019922832,15
+2023,Saudi Arabian Grand Prix,RUS,0.05661213,4
+2023,Saudi Arabian Grand Prix,SAI,0.039391436,6
+2023,Saudi Arabian Grand Prix,SAR,0.0026964948,16
+2023,Saudi Arabian Grand Prix,STR,0.06657471,10
+2023,Saudi Arabian Grand Prix,TSU,0.0052775647,11
+2023,Saudi Arabian Grand Prix,VER,0.023384796,2
+2023,Saudi Arabian Grand Prix,ZHO,0.008684277,13
+2023,Singapore Grand Prix,ALB,0.004165872,11
+2023,Singapore Grand Prix,ALO,0.08470131,15
+2023,Singapore Grand Prix,BOT,0.0036647404,15
+2023,Singapore Grand Prix,GAS,0.008196825,6
+2023,Singapore Grand Prix,HAM,0.071064755,3
+2023,Singapore Grand Prix,HUL,0.013017196,13
+2023,Singapore Grand Prix,LAW,0.008536103,9
+2023,Singapore Grand Prix,LEC,0.27135006,4
+2023,Singapore Grand Prix,MAG,0.025041644,10
+2023,Singapore Grand Prix,NOR,0.09933879,2
+2023,Singapore Grand Prix,OCO,0.030486241,6
+2023,Singapore Grand Prix,PER,0.013850982,8
+2023,Singapore Grand Prix,PIA,0.0026606969,7
+2023,Singapore Grand Prix,RUS,0.20767966,3
+2023,Singapore Grand Prix,SAI,0.1448855,1
+2023,Singapore Grand Prix,SAR,0.001996102,14
+2023,Singapore Grand Prix,VER,0.006122618,5
+2023,Singapore Grand Prix,ZHO,0.0032408882,12
+2023,Spanish Grand Prix,ALB,0.005578076,16
+2023,Spanish Grand Prix,ALO,0.0790675,7
+2023,Spanish Grand Prix,BOT,0.008962722,19
+2023,Spanish Grand Prix,DEV,0.0142024765,14
+2023,Spanish Grand Prix,GAS,0.088142,11
+2023,Spanish Grand Prix,HAM,0.09908051,2
+2023,Spanish Grand Prix,HUL,0.01765182,15
+2023,Spanish Grand Prix,LEC,0.007799231,12
+2023,Spanish Grand Prix,MAG,0.0041422215,18
+2023,Spanish Grand Prix,NOR,0.22512053,17
+2023,Spanish Grand Prix,OCO,0.071904436,8
+2023,Spanish Grand Prix,PER,0.009619706,4
+2023,Spanish Grand Prix,PIA,0.033024486,13
+2023,Spanish Grand Prix,RUS,0.014326632,3
+2023,Spanish Grand Prix,SAI,0.18445526,5
+2023,Spanish Grand Prix,SAR,0.002748621,20
+2023,Spanish Grand Prix,STR,0.057207495,6
+2023,Spanish Grand Prix,TSU,0.022319699,9
+2023,Spanish Grand Prix,VER,0.04655361,1
+2023,Spanish Grand Prix,ZHO,0.008092923,10
